@@ -1,6 +1,7 @@
 ## 🌟 Welcome to My GitHub Profile!
 
-![Coding Banner](https://javatekno.co.id/uploads/article/2023/08/manfaat-belajar-coding-sejak-dini.jpg)
+![Coding Banner](https://raw.githubusercontent.com/username/repository/main/banner.jpg)
+
 
 ### 👋 Hello, I'm Reffki Andrea Pratama
 🎓 Currently studying at **University of Bengkulu**  
