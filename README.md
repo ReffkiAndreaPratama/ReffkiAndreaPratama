@@ -1,6 +1,6 @@
 ## 🌟 Welcome to My GitHub Profile!
 
-![Coding Banner](https://source.unsplash.com/1600x400/?technology,programming)
+![Coding Banner](https://[source.unsplash.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fid%2Filustrasi%2Fcoding-an-interface&psig=AOvVaw0samihzxekUyBkhVMSe73f&ust=1740868628047000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCICGkpy354sDFQAAAAAdAAAAABAh)/1600x400/?technology,programming)
 
 ### 👋 Hello, I'm Reffki Andrea Pratama
 🎓 Currently studying at **University of Bengkulu**  
