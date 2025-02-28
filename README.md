@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently Study
+I'm currently Study in University of Bengkulu
 
 
 ## 🌐 Socials:
