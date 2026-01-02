@@ -1,6 +1,6 @@
 ## 🌟 Welcome to My GitHub Profile!
 
-![Coding Banner]([https://github.com/](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main.jpg)
+([https://github.com/](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main.jpg)
 
 
 ### 👋 Hello, I'm Reffki Andrea Pratama
