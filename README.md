@@ -47,14 +47,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=dark&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+--
 
 ---
 
