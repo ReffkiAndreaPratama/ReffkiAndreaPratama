@@ -1,8 +1,5 @@
 ## 🌟 Welcome to My GitHub Profile!
 
-([https://github.com/](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main.jpg)
-
-
 ### 👋 Hello, I'm Reffki Andrea Pratama
 🎓 Currently studying at **University of Bengkulu**  
 💡 Passionate about **software development, cloud computing, and UI/UX design**  
