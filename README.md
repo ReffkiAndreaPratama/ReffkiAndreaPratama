@@ -45,8 +45,9 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=dark&hide_border=false)
+
+---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
---
 
 ---
 
@@ -61,6 +62,8 @@
 ---
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=ReffkiAndreaPratama&icon=0&color=0)
+
+---
 🌐 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/reffki-andrea-pratama-851857282
 - Instagram: https://instagram.com/@tama2290s
