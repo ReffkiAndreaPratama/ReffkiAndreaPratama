@@ -18,31 +18,34 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120" />
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```javascript
-const reffki = {
-    pronouns: "he/him",
-    location: "Bengkulu, Indonesia 🇮🇩",
-    education: "University of Bengkulu (UNIB)",
-    role: "Full Stack Developer",
-    
-    currentlyWorkingOn: "Web & Mobile Applications",
-    currentlyLearning: ["Cloud Architecture", "DevOps", "AI/ML"],
-    askMeAbout: ["Laravel", "Flutter", "AWS", "UI/UX"],
-    
-    funFact: "I debug with console.log and I'm proud of it 😄",
-    motto: "Code is like humor. When you have to explain it, it's bad."
-};
-```
+### 👋 Hey there! I'm Reffki
 
-<br clear="right"/>
+🎓 Studying at **University of Bengkulu (UNIB)**
 
-- 🔭 Currently working on **Hotel Reservation System**
-- 🌱 Learning **Cloud Architecture & DevOps**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, PHP, JavaScript, Flutter**
+📍 Based in **Bengkulu, Indonesia** 🇮🇩
+
+💼 **Full Stack Developer** passionate about building modern web & mobile apps
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Info
+
+- 🔭 Working on **Web & Mobile Applications**
+- 🌱 Learning **Cloud Architecture, DevOps, AI/ML**
+- 👯 Open to **collaborate on Open Source**
+- 💬 Ask me about **Laravel, Flutter, AWS, UI/UX**
 - ☕ Fun fact: **Indomie is my debugging fuel**
+
+</td>
+</tr>
+</table>
+
+> *"Code is like humor. When you have to explain it, it's bad."* 😄
 
 ---
 
@@ -110,37 +113,46 @@ const reffki = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8"/>
+  </a>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9" />
+<p align="center">
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9"/>
+  </a>
+</p>
 
-</div>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- ACTIVITY GRAPH -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20My%20Contribution%20Graph"/>
+  </a>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  </a>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+---
 
-</div>
+## 🔝 Top Contributed Repos
+
+<p align="center">
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img src="https://github-contributor-stats.vercel.app/api?username=ReffkiAndreaPratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117"/>
+  </a>
+</p>
 
 ---
 
@@ -153,7 +165,9 @@ const reffki = {
 
 ![Snake animation](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg)
 
-> ⚠️ **Setup required!** Create file `.github/workflows/snake.yml` in your profile repo:
+</div>
+
+> ⚠️ **Setup:** Buat file `.github/workflows/snake.yml` di repo profile kamu:
 > ```yaml
 > name: Snake Animation
 > on:
@@ -178,7 +192,6 @@ const reffki = {
 >           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 > ```
 
-</div>
 </details>
 
 <details>
@@ -236,13 +249,9 @@ Others         █░░░░░░░░░░░░░░░░░░░░  
 ```
 
 ```text
-💻 Operating System:
-Windows 11       ████████████████░░░░   80%
-Linux (Ubuntu)   ████░░░░░░░░░░░░░░░░   20%
-
-📝 Editors:
-VS Code          ████████████████████   90%
-Android Studio   ██░░░░░░░░░░░░░░░░░░   10%
+💻 OS:        Windows 11 (80%) | Linux Ubuntu (20%)
+📝 Editor:    VS Code (90%) | Android Studio (10%)
+🕐 Timezone:  Asia/Jakarta (WIB, UTC+7)
 ```
 
 </details>
@@ -259,29 +268,17 @@ Android Studio   ██░░░░░░░░░░░░░░░░░░   
 
 **Your turn!** [Click here to make a move](https://github.com/ReffkiAndreaPratama/ReffkiAndreaPratama/issues/new?title=tictactoe%7Cmove%7Ca1&body=Just+click+submit+to+make+your+move!)
 
-> 💡 This can be automated with GitHub Actions! Check out [this repo](https://github.com/timburgan/timburgan) for inspiration.
-
 </details>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=ReffkiAndreaPratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
-
-</div>
 
 ---
 
 ## ✍️ Dev Quote of the Day
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
 
@@ -289,9 +286,7 @@ Android Studio   ██░░░░░░░░░░░░░░░░░░   
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" />
-
-**I'm always open to interesting conversations and collaboration opportunities!**
+**I'm always open to interesting conversations and collaboration!**
 
 <br/>
 
