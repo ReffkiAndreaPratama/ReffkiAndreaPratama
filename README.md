@@ -1,63 +1,48 @@
 <div align="center">
 
-<!-- HEADER ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reffki%20Andrea%20Pratama&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Cloud%20Enthusiast%20%7C%20UI/UX%20Designer&descSize=16&descAlignY=52"/>
+<!-- ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=200&section=header&text=Reffki%20Andrea%20Pratama&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Full%20Stack%20Developer%20•%20Cloud%20Enthusiast%20•%20UI/UX%20Designer&descSize=15&descAlignY=50&descColor=ffffff"/>
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+the+future+with+code+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" /></a>
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;%F0%9F%9A%80+Building+awesome+things+with+code;%F0%9F%8C%B1+Always+learning%2C+always+growing)](https://git.io/typing-svg)
 
-<!-- PROFILE VIEWS & FOLLOWERS -->
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
-<a href="https://github.com/ReffkiAndreaPratama?tab=followers"><img src="https://img.shields.io/github/followers/ReffkiAndreaPratama?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers"/></a>
-<a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><img src="https://img.shields.io/github/stars/ReffkiAndreaPratama?label=Stars&style=for-the-badge&color=6C63FF" alt="Stars"/></a>
+
+<!-- BADGES -->
+![Profile Views](https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/ReffkiAndreaPratama?style=for-the-badge&color=6C63FF&labelColor=1a1a2e)](https://github.com/ReffkiAndreaPratama)
 
 </div>
 
 ---
 
-## 🎮 Play a Game While You're Here!
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" /> About Me
 
-<div align="center">
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120" />
 
-### 🐍 Snake Eating My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake.svg" />
-</picture>
-
-</div>
-
-> 💡 **Tip:** Set up the snake animation with [this GitHub Action workflow](#-snake-game-setup) at the bottom!
-
----
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
-
-```yaml
-name: Reffki Andrea Pratama
-location: Bengkulu, Indonesia 🇮🇩
-education: University of Bengkulu (UNIB)
-role: Full Stack Developer & Cloud Enthusiast
-
-currently:
-  - 🔭 Working on: Web & Mobile Applications
-  - 🌱 Learning: Cloud Architecture, DevOps, AI/ML
-  - 👯 Looking to collaborate on: Open Source Projects
-  - 💬 Ask me about: Laravel, Flutter, AWS, UI/UX
-  - ⚡ Fun fact: I debug with console.log and I'm not ashamed 😄
-
-interests:
-  - Software Development
-  - Cloud Computing (AWS)
-  - UI/UX Design
-  - Mobile Development
-  - Open Source Contributing
-
-life_motto: "Code is like humor. When you have to explain it, it's bad."
+```javascript
+const reffki = {
+    pronouns: "he/him",
+    location: "Bengkulu, Indonesia 🇮🇩",
+    education: "University of Bengkulu (UNIB)",
+    role: "Full Stack Developer",
+    
+    currentlyWorkingOn: "Web & Mobile Applications",
+    currentlyLearning: ["Cloud Architecture", "DevOps", "AI/ML"],
+    askMeAbout: ["Laravel", "Flutter", "AWS", "UI/UX"],
+    
+    funFact: "I debug with console.log and I'm proud of it 😄",
+    motto: "Code is like humor. When you have to explain it, it's bad."
+};
 ```
+
+<br clear="right"/>
+
+- 🔭 Currently working on **Hotel Reservation System**
+- 🌱 Learning **Cloud Architecture & DevOps**
+- 👯 Looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Laravel, PHP, JavaScript, Flutter**
+- ☕ Fun fact: **Indomie is my debugging fuel**
 
 ---
 
@@ -65,61 +50,85 @@ life_motto: "Code is like humor. When you have to explain it, it's bad."
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ReffkiAndreaPratama)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@tama2290s)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/AndreaPratama)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@@tama2290ss)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yeGpbKs4)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reffkip@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/ReffkiAndreaPratama)
+<a href="https://linkedin.com/in/reffki-andrea-pratama-851857282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/tama2290s"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AndreaPratama"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://youtube.com/@tama2290ss"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://discord.gg/yeGpbKs4"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="mailto:reffkip@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,javascript,typescript,php,dart&perline=9" />
+### Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,react,vue,tailwind,bootstrap,sass,figma&perline=8" />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 
-### ⚙️ Backend & Frameworks
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,flutter,spring&perline=5" />
+### Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,firebase&perline=5" />
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,linux,nginx,git,github&perline=9" />
-
-### 🧰 Tools & IDEs
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,notion&perline=5" />
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=c9d1d9&dates=c9d1d9" />
 
-<br/><br/>
+</div>
 
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=10" />
+<div align="center">
 
-<br/><br/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9&langs_count=8" />
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+
+<!-- ACTIVITY GRAPH -->
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" />
 
 </div>
 
@@ -129,139 +138,134 @@ life_motto: "Code is like humor. When you have to explain it, it's bad."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" />
 
 </div>
 
 ---
 
-## 🎯 Contribution & Activity
-
-<div align="center">
-
-<!-- 3D Contribution Calendar -->
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
-
-</div>
-
----
-
-## 🎮 More Fun Stuff!
+## 🎮 Fun Zone
 
 <details>
-<summary>🕹️ <b>Play Tic-Tac-Toe</b> (Click to expand)</summary>
+<summary><b>🐍 Snake Game — Watch it eat my contributions!</b></summary>
 <br/>
+<div align="center">
 
-| | 1 | 2 | 3 |
-|---|---|---|---|
-| **A** | ⬜ | ⬜ | ⬜ |
-| **B** | ⬜ | ⬜ | ⬜ |
-| **C** | ⬜ | ⬜ | ⬜ |
+![Snake animation](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg)
 
-> 🎮 Want to play? [Open an issue](https://github.com/ReffkiAndreaPratama/ReffkiAndreaPratama/issues/new?title=tictactoe%7Cmove%7Ca1&body=Just+click+submit!) with your move!
+> ⚠️ **Setup required!** Create file `.github/workflows/snake.yml` in your profile repo:
+> ```yaml
+> name: Snake Animation
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch:
+> jobs:
+>   build:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: ReffkiAndreaPratama
+>           outputs: |
+>             dist/github-snake.svg
+>             dist/github-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
 
+</div>
 </details>
 
 <details>
-<summary>🧩 <b>Daily Coding Puzzle</b> (Click to expand)</summary>
+<summary><b>🧩 Coding Challenge — Can you solve it?</b></summary>
 <br/>
 
 ```python
-# 🤔 What does this print?
+# What does this function return for mystery(4)?
 def mystery(n):
-    if n <= 0:
-        return ""
-    return mystery(n-1) + chr(64+n)
+    if n == 0:
+        return []
+    return mystery(n-1) + [n * n]
 
-print(mystery(5))
+print(mystery(4))
 ```
 
 <details>
-<summary>💡 Click for answer</summary>
+<summary>🔑 Click to reveal answer</summary>
 
-> **Answer:** `ABCDE`
-> 
-> The function recursively builds a string from 'A' (chr(65)) to 'E' (chr(69))
+```
+[1, 4, 9, 16]
+```
+It builds a list of squares from 1² to n²!
 
 </details>
 </details>
 
 <details>
-<summary>🎲 <b>Random Fun Facts About Me</b> (Click to expand)</summary>
+<summary><b>🎲 Random Facts About Me</b></summary>
 <br/>
 
 | # | Fact |
-|---|------|
-| 1 | ☕ I run on coffee — approximately 3 cups/day |
-| 2 | 🌙 Most productive between 10 PM - 2 AM |
-| 3 | 🎵 I code better with lo-fi music |
-| 4 | 🐛 My first program had 47 bugs. It was "Hello World" |
-| 5 | 📚 I read tech blogs every morning |
-| 6 | 🎮 Gamer when not coding (Valorant, Minecraft) |
-| 7 | 🍜 Indomie is my debugging fuel |
-| 8 | 🌏 Dream: Build a startup that impacts millions |
+|:---:|------|
+| ☕ | I drink ~3 cups of coffee per day |
+| 🌙 | Most productive between 10 PM - 2 AM |
+| 🎵 | I code better with lo-fi music |
+| 🍜 | Indomie Goreng > everything else |
+| 🎮 | Gamer: Valorant, Minecraft |
+| 🐛 | My first "Hello World" had 3 bugs |
+| 📱 | Android > iOS (don't @ me) |
+| 🌏 | Dream: Build a startup that helps millions |
 
 </details>
 
 <details>
-<summary>⌨️ <b>My Coding Stats (WakaTime)</b> (Click to expand)</summary>
+<summary><b>⌨️ Weekly Coding Breakdown</b></summary>
 <br/>
 
 ```text
-PHP          ████████████░░░░░░░░░   55.2%
-JavaScript   ████████░░░░░░░░░░░░░   22.8%
-Python       ███░░░░░░░░░░░░░░░░░░   10.5%
-Dart         ██░░░░░░░░░░░░░░░░░░░    6.3%
-Others       █░░░░░░░░░░░░░░░░░░░░    5.2%
+PHP            ██████████████░░░░░░░   55.2%
+JavaScript     █████████░░░░░░░░░░░░   22.8%
+Python         ███░░░░░░░░░░░░░░░░░░   10.5%
+Dart/Flutter   ██░░░░░░░░░░░░░░░░░░░    6.3%
+Others         █░░░░░░░░░░░░░░░░░░░░    5.2%
 ```
 
-**📅 I'm most productive on Saturdays**
-
 ```text
-Monday       ██████░░░░░░░░░░░░░░░   12.4%
-Tuesday      ███████░░░░░░░░░░░░░░   14.2%
-Wednesday    ████████░░░░░░░░░░░░░   15.8%
-Thursday     ███████░░░░░░░░░░░░░░   14.5%
-Friday       ████████░░░░░░░░░░░░░   16.1%
-Saturday     █████████░░░░░░░░░░░░   18.2%
-Sunday       ████░░░░░░░░░░░░░░░░░    8.8%
+💻 Operating System:
+Windows 11       ████████████████░░░░   80%
+Linux (Ubuntu)   ████░░░░░░░░░░░░░░░░   20%
+
+📝 Editors:
+VS Code          ████████████████████   90%
+Android Studio   ██░░░░░░░░░░░░░░░░░░   10%
 ```
 
 </details>
 
 <details>
-<summary>🎵 <b>Now Playing — Spotify</b> (Click to expand)</summary>
+<summary><b>🕹️ Play Tic-Tac-Toe!</b></summary>
 <br/>
 
-<div align="center">
+|   | 1 | 2 | 3 |
+|---|:---:|:---:|:---:|
+| **A** | ⬜ | ⬜ | ⬜ |
+| **B** | ⬜ | ❌ | ⬜ |
+| **C** | ⬜ | ⬜ | ⬜ |
 
-[![Spotify](https://novatorem-reffki.vercel.app/api/spotify)](https://open.spotify.com/user/ReffkiAndreaPratama)
+**Your turn!** [Click here to make a move](https://github.com/ReffkiAndreaPratama/ReffkiAndreaPratama/issues/new?title=tictactoe%7Cmove%7Ca1&body=Just+click+submit+to+make+your+move!)
 
-*🎧 Currently vibing to some lo-fi beats while coding...*
+> 💡 This can be automated with GitHub Actions! Check out [this repo](https://github.com/timburgan/timburgan) for inspiration.
 
-</div>
 </details>
 
 ---
 
-## 📈 Metrics & Achievements
-
-<div align="center">
-
-| 🏅 Metric | 📊 Value |
-|-----------|----------|
-| 🔥 Total Contributions (2024) | ![Contributions](https://img.shields.io/badge/dynamic-counting-6C63FF?style=flat-square) |
-| ⭐ Total Stars Earned | ![Stars](https://img.shields.io/github/stars/ReffkiAndreaPratama?style=flat-square&color=6C63FF) |
-| 🍴 Total Forks | ![Forks](https://img.shields.io/badge/growing-daily-6C63FF?style=flat-square) |
-| 📦 Repositories | ![Repos](https://img.shields.io/badge/20+-projects-6C63FF?style=flat-square) |
-| 🎯 Issues Resolved | ![Issues](https://img.shields.io/badge/always-helping-6C63FF?style=flat-square) |
-| 🤝 Pull Requests | ![PRs](https://img.shields.io/badge/open_source-contributor-6C63FF?style=flat-square) |
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
+## 🔝 Top Contributed Repos
 
 <div align="center">
 
@@ -271,7 +275,7 @@ Sunday       ████░░░░░░░░░░░░░░░░░    
 
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote of the Day
 
 <div align="center">
 
@@ -281,127 +285,26 @@ Sunday       ████░░░░░░░░░░░░░░░░░    
 
 ---
 
-## 💡 Featured Projects
+## 📫 Let's Connect!
 
 <div align="center">
 
-<a href="https://github.com/ReffkiAndreaPratama/RESERVASIKOST-main">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ReffkiAndreaPratama&repo=RESERVASIKOST-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
-</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="60" />
 
-</div>
-
-> 🚀 *More projects coming soon! Stay tuned...*
-
----
-
-## 🐍 Snake Game Setup
-
-<details>
-<summary>📋 <b>How to set up the Snake Animation</b> (Click to expand)</summary>
-<br/>
-
-Create `.github/workflows/snake.yml` in your profile repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *" # Every 12 hours
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ReffkiAndreaPratama
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then reference the images from the `output` branch in your README!
-
-</details>
-
-<details>
-<summary>📋 <b>How to set up 3D Contribution Graph</b> (Click to expand)</summary>
-<br/>
-
-Create `.github/workflows/profile-3d.yml`:
-
-```yaml
-name: GitHub Profile 3D Contrib
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ReffkiAndreaPratama
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated 3d contrib"
-          git push
-```
-
-</details>
-
----
-
-## 📫 Let's Work Together!
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   💼 Open for freelance projects & collaborations!           ║
-║   📧 Reach me at: reffkip@gmail.com                         ║
-║   🌐 Based in Bengkulu, Indonesia                           ║
-║                                                              ║
-║   "Let's turn ideas into reality with code!" 🚀             ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**I'm always open to interesting conversations and collaboration opportunities!**
 
 <br/>
 
-<a href="mailto:reffkip@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-Let's%20Talk!-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<a href="mailto:reffkip@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-6C63FF?style=for-the-badge"/></a>
+<a href="https://linkedin.com/in/reffki-andrea-pratama-851857282"><img src="https://img.shields.io/badge/💼_Hire_Me-0A66C2?style=for-the-badge"/></a>
+<a href="https://instagram.com/tama2290s"><img src="https://img.shields.io/badge/📸_Follow_Me-E4405F?style=for-the-badge"/></a>
 
 <br/><br/>
 
 ### 💖 Support My Work
 
-<a href="https://www.buymeacoffee.com/reffki">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-<a href="https://trakteer.id/reffki">
-  <img src="https://img.shields.io/badge/Trakteer-FF424F?style=for-the-badge&logo=kofi&logoColor=white" />
-</a>
+<a href="https://trakteer.id/reffki"><img src="https://img.shields.io/badge/Trakteer-FF424F?style=for-the-badge&logo=kofi&logoColor=white"/></a>
+<a href="https://saweria.co/reffki"><img src="https://img.shields.io/badge/Saweria-FFCA28?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
 
 </div>
 
@@ -409,12 +312,10 @@ jobs:
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3B82F6&height=120&section=footer"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+**⭐ Star my repos if you find them useful!**
 
-**✨ Thanks for visiting! Let's build something amazing together! 🚀**
-
-*Last updated: May 2026*
+*Made with ❤️ by Reffki Andrea Pratama*
 
 </div>
