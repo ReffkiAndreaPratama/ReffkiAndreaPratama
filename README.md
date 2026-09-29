@@ -115,42 +115,6 @@
 ## 🎮 Fun Zone
 
 <details>
-<summary><b>🐍 Snake Game — Watch it eat my contributions!</b></summary>
-<br/>
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg)
-
-</div>
-
-> ⚠️ **Setup:** Buat file `.github/workflows/snake.yml` di repo profile kamu:
-> ```yaml
-> name: Snake Animation
-> on:
->   schedule:
->     - cron: "0 */6 * * *"
->   workflow_dispatch:
-> jobs:
->   build:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: ReffkiAndreaPratama
->           outputs: |
->             dist/github-snake.svg
->             dist/github-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
-</details>
-
-<details>
 <summary><b>🧩 Coding Challenge — Can you solve it?</b></summary>
 <br/>
 
