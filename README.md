@@ -111,51 +111,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ReffkiAndreaPratama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  </a>
-
-  <a href="https://github.com/ReffkiAndreaPratama">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ReffkiAndreaPratama">
-    <img width="70%" src="https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ReffkiAndreaPratama">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&theme=github-compact&hide_border=true"/>
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-
-<p align="center">
-  <a href="https://github.com/ReffkiAndreaPratama">
-    <img width="98%" src="https://github-contributor-stats.vercel.app/api?username=ReffkiAndreaPratama&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
-
----
 
 ## 🎮 Fun Zone
 
