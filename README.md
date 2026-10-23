@@ -1,66 +1,128 @@
-<!-- =====================================================
-     NEXREFF // DIGITAL WORKSPACE
-     Cyberpunk Bento Grid | Midnight × Cyan × Violet
-     ===================================================== -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║  NEXREFF // NEON OS                                          ║
+║  PERSONAL DEVELOPER COMMAND CENTER                           ║
+║  Repository: ReffkiAndreaPratama/ReffkiAndreaPratama         ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=NEXREFF&fontSize=80&fontColor=FFFFFF&stroke=38BDF8&strokeWidth=1&animation=fadeIn&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20EXPLORER&descSize=16&descAlignY=72&color=0:09090B,35:171554,70:172554,100:0891B2" alt="Nexreff cyberpunk banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NEXREFF&fontSize=90&fontColor=FFFFFF&stroke=00F5FF&strokeWidth=1&animation=fadeIn&desc=INDEPENDENT%20MIND.%20ENGINEERING%20MINDSET.&descSize=15&descAlignY=70&color=0:050816,25:101044,60:171554,100:003B49" alt="Nexreff NEON OS hero banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=700&color=67E8F9&center=true&vCenter=true&repeat=true&width=650&height=35&lines=%3E+INITIALIZING+DEVELOPER+WORKSPACE...;%3E+BUILDING+TOOLS%2C+NOT+JUST+PROJECTS;%3E+EXPLORING+SYSTEMS+BEYOND+THE+SURFACE;%3E+TURNING+CURIOSITY+INTO+CODE" alt="Terminal-style typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%24+whoami+%E2%86%92+Reffki+Andrea+Pratama;%24+role+%E2%86%92+Informatics+Student+%2F+Developer;%24+mission+%E2%86%92+Build+something+meaningful;%24+status+%E2%86%92+Always+experimenting..." alt="Animated terminal intro"/>
 
 <br/>
 
-<a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore GitHub"/>
-</a>
-&nbsp;
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=080B18" alt="System online"/>
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-8B5CF6?style=for-the-badge&labelColor=080B18" alt="Location Indonesia"/>
+<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20EXPLORE-22C55E?style=for-the-badge&labelColor=080B18" alt="Build and explore"/>
+
+<br/><br/>
+
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-BROWSE%20REPOSITORIES-111827?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Browse projects"/>
+<img src="https://img.shields.io/badge/%5B_01_%5D_EXPLORE_PROJECTS-00F5FF?style=for-the-badge&labelColor=080B18" alt="Explore projects"/>
+</a>
+<a href="https://github.com/ReffkiAndreaPratama">
+<img src="https://img.shields.io/badge/%5B_02_%5D_GITHUB_PROFILE-8B5CF6?style=for-the-badge&labelColor=080B18" alt="GitHub profile"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=0891B2&label=VISITORS" alt="Profile visitors"/>
+<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=0891B2&label=SYSTEM+VISITORS" alt="Profile visitor counter"/>
 
 </div>
 
-<br/>
-
-<!-- =============== INTRODUCTION =============== -->
+---
 
 <table>
 <tr>
-<td width="62%" valign="middle">
+<td width="65%" valign="top">
 
-## ◈ SYSTEM PROFILE
+## `01 // IDENTITY`
 
-### Hey, I'm Reffki Andrea Pratama.
+### Hello, world. I'm Reffki.
 
-**Informatics Student · Developer · Technology Explorer**
+An Informatics student at **Universitas Bengkulu** who enjoys building software, exploring technical systems, and turning ideas into practical projects.
 
-📍 Bengkulu, Indonesia  
-🎓 Universitas Bengkulu
+My interests connect several areas of technology:
 
-I build software to solve practical problems, explore technical concepts, and understand how systems work.
+- **Software Engineering** — web applications, APIs, and databases.
+- **Computer Vision** — image processing and classification.
+- **Geospatial Computing** — GIS and interactive mapping.
+- **Systems Engineering** — Linux, networking, and self-hosting.
+- **Reverse Engineering** — understanding software behavior and API interactions.
 
-My interests span web engineering, computer vision, geospatial applications, Linux infrastructure, and reverse engineering.
-
-I don't want to stop at making something work. I want to understand **why it works, how it can improve, and what else it can do.**
+My approach is simple: build it, test it, understand it, improve it.
 
 </td>
-<td width="38%" align="center" valign="middle">
+<td width="35%" valign="top">
 
-<img width="180" src="https://github.com/ReffkiAndreaPratama.png" alt="Nexreff profile avatar"/>
+<div align="center">
+
+<img width="180" src="https://github.com/ReffkiAndreaPratama.png" alt="Nexreff avatar"/>
+
+### NEXREFF
+
+`DEV PROFILE / 001`
+
+<img src="https://img.shields.io/badge/LEARNING-ACTIVE-22C55E?style=flat-square" alt="Learning active"/>
+
+<img src="https://img.shields.io/badge/EXPERIMENTS-ONGOING-00F5FF?style=flat-square" alt="Experiments ongoing"/>
+
+<img src="https://img.shields.io/badge/MINDSET-CURIOUS-8B5CF6?style=flat-square" alt="Curious mindset"/>
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+`CURIOSITY → EXPERIMENT → UNDERSTANDING → IMPLEMENTATION`
+
+</div>
+
+---
+
+## `02 // COMMAND CENTER`
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/01-WEB%20ENGINEERING-00F5FF?style=for-the-badge&labelColor=080B18" alt="Web engineering"/>
 
 <br/><br/>
 
-`STATUS: ALWAYS LEARNING`
+**Build digital products.**
 
-<img src="https://img.shields.io/badge/MODE-BUILD-0891B2?style=flat-square" alt="Build mode"/>
-<img src="https://img.shields.io/badge/MINDSET-EXPLORE-7C3AED?style=flat-square" alt="Explore mindset"/>
+Laravel applications, backend APIs, interactive interfaces, and database-driven systems.
+
+</td>
+<td width="34%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/02-INTELLIGENT%20SYSTEMS-8B5CF6?style=for-the-badge&labelColor=080B18" alt="Intelligent systems"/>
+
+<br/><br/>
+
+**Turn data into insight.**
+
+Computer vision, image feature extraction, classification experiments, and adaptive learning concepts.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/03-LOW%20LEVEL%20EXPLORATION-22C55E?style=for-the-badge&labelColor=080B18" alt="Systems exploration"/>
+
+<br/><br/>
+
+**Understand the underlying system.**
+
+Linux infrastructure, API analysis, networking, and reverse engineering exploration.
 
 </td>
 </tr>
@@ -68,11 +130,14 @@ I don't want to stop at making something work. I want to understand **why it wor
 
 ---
 
+## `03 // PROJECT SELECTOR`
+
 <div align="center">
 
-## ⌁ THE DEVELOPER DASHBOARD
+<img src="https://img.shields.io/badge/PROJECTS-SELECTED%20BUILDS-00F5FF?style=flat-square&labelColor=080B18" alt="Selected projects"/>
+<img src="https://img.shields.io/badge/PHILOSOPHY-PRACTICE%20OVER%20HYPE-8B5CF6?style=flat-square&labelColor=080B18" alt="Practice over hype"/>
 
-*One developer. Multiple domains. Endless things to explore.*
+**Select a project to explore its domain, purpose, and technology.**
 
 </div>
 
@@ -82,120 +147,42 @@ I don't want to stop at making something work. I want to understand **why it wor
 
 <div align="center">
 
-### 🌐 WEB ENGINEERING
-
-<img src="https://img.shields.io/badge/01-LARAVEL-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-<img src="https://img.shields.io/badge/02-NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img width="100%" src="https://placehold.co/640x300/080B18/00F5FF/png?text=01+%2F+COASTAL+WEBGIS&font=montserrat" alt="Coastal tourism WebGIS cover"/>
 
 </div>
 
-Building web applications, APIs, dashboards, and database-driven systems.
+### `01` — Coastal Tourism WebGIS
 
-</td>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/GIS-00F5FF?style=flat-square&labelColor=080B18" alt="GIS"/>
 
-<div align="center">
+An interactive geographic information system for exploring coastal tourism destinations in Bengkulu.
 
-### 👁️ COMPUTER VISION
-
-<img src="https://img.shields.io/badge/03-OPENCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/04-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-
-</div>
-
-Exploring image preprocessing, feature extraction, and machine learning classification.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🗺️ GEOSPATIAL SYSTEMS
-
-<img src="https://img.shields.io/badge/05-LEAFLET-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
-<img src="https://img.shields.io/badge/06-QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
-
-</div>
-
-Transforming geographic data into interactive maps and practical information systems.
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🖥️ SYSTEMS & INFRASTRUCTURE
-
-<img src="https://img.shields.io/badge/07-LINUX-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-<img src="https://img.shields.io/badge/08-SELF--HOSTING-F97316?style=flat-square&logo=serverfault&logoColor=white" alt="Self-hosting"/>
-
-</div>
-
-Learning server administration, networking, service deployment, and system troubleshooting.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## ▰ PROJECT SHOWCASE
-
-**Selected builds · Practical applications · Technical experiments**
-
-</div>
-
-<!-- PROJECT 01 -->
-
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
-
-<img width="100%" src="https://placehold.co/600x360/0B1220/67E8F9/png?text=01+%2F+WEBGIS&font=montserrat" alt="Interactive coastal tourism WebGIS project cover"/>
-
-</td>
-<td width="64%" valign="top">
-
-### 01 / Interactive Coastal Tourism WebGIS
-
-<img src="https://img.shields.io/badge/DOMAIN-GEOSPATIAL-0891B2?style=flat-square" alt="Geospatial domain"/>
-
-An interactive mapping platform for coastal tourism destinations in Bengkulu.
-
+**Core modules**
 - Interactive destination map
-- Destination management dashboard
-- Reviews and rating functionality
-- Geographic information visualization
+- Destination management
+- Reviews and ratings
+- Geographic visualization
 
-`Laravel` `Leaflet` `MySQL` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 02 -->
-
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
-
-<img width="100%" src="https://placehold.co/600x360/111827/A78BFA/png?text=02+%2F+ASSET+SYSTEM&font=montserrat" alt="Office asset management project cover"/>
+`Laravel` `Leaflet` `MySQL`
 
 </td>
-<td width="64%" valign="top">
+<td width="50%" valign="top">
 
-### 02 / Office Asset Management System
+<div align="center">
 
-<img src="https://img.shields.io/badge/DOMAIN-INFORMATION%20SYSTEMS-7C3AED?style=flat-square" alt="Information systems domain"/>
+<img width="100%" src="https://placehold.co/640x300/100A24/A78BFA/png?text=02+%2F+ASSET+MANAGEMENT&font=montserrat" alt="Asset management cover"/>
 
-A web-based asset management system developed for the RBTV Bengkulu office context.
+</div>
 
-- Office asset inventory
-- Incoming and outgoing asset records
+### `02` — Office Asset Management
+
+<img src="https://img.shields.io/badge/INFORMATION%20SYSTEMS-A78BFA?style=flat-square&labelColor=080B18" alt="Information systems"/>
+
+A web-based asset management system for the RBTV Bengkulu office context.
+
+**Core modules**
+- Asset inventory
+- Incoming and outgoing records
 - Administrative dashboard
 - Printable reports
 
@@ -203,116 +190,100 @@ A web-based asset management system developed for the RBTV Bengkulu office conte
 
 </td>
 </tr>
-</table>
-
-<!-- PROJECT 03 -->
-
-<table>
 <tr>
-<td width="36%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x360/102019/4ADE80/png?text=03+%2F+VISION+AI&font=montserrat" alt="Rice image classification project cover"/>
+<div align="center">
 
-</td>
-<td width="64%" valign="top">
+<img width="100%" src="https://placehold.co/640x300/071A12/4ADE80/png?text=03+%2F+VISION+LAB&font=montserrat" alt="Computer vision project cover"/>
 
-### 03 / Rice Image Classification
+</div>
 
-<img src="https://img.shields.io/badge/DOMAIN-COMPUTER%20VISION-16A34A?style=flat-square" alt="Computer vision domain"/>
+### `03` — Rice Image Classification
 
-An image classification experiment exploring visual characteristics of rice images.
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-4ADE80?style=flat-square&labelColor=080B18" alt="Computer vision"/>
 
+An image classification experiment investigating texture and shape features in rice images.
+
+**Core modules**
 - Image preprocessing
 - GLCM texture features
 - Shape feature extraction
 - SVM and Random Forest experiments
-- Image classification interface
+- Classification interface
 
-`Python` `OpenCV` `scikit-learn` `Tkinter`
-
-</td>
-</tr>
-</table>
-
-<!-- PROJECT 04 -->
-
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
-
-<img width="100%" src="https://placehold.co/600x360/1B1033/C4B5FD/png?text=04+%2F+TECHDIAGNOSE&font=montserrat" alt="TechDiagnose AI project cover"/>
+`Python` `OpenCV` `scikit-learn`
 
 </td>
-<td width="64%" valign="top">
+<td width="50%" valign="top">
 
-### 04 / TechDiagnose AI
+<div align="center">
 
-<img src="https://img.shields.io/badge/DOMAIN-ADAPTIVE%20LEARNING-8B5CF6?style=flat-square" alt="Adaptive learning domain"/>
+<img width="100%" src="https://placehold.co/640x300/1A0A2E/E879F9/png?text=04+%2F+TECHDIAGNOSE+AI&font=montserrat" alt="TechDiagnose AI cover"/>
+
+</div>
+
+### `04` — TechDiagnose AI
+
+<img src="https://img.shields.io/badge/ADAPTIVE%20LEARNING-E879F9?style=flat-square&labelColor=080B18" alt="Adaptive learning"/>
 
 An educational project concept for adaptive PC and laptop troubleshooting.
 
+**Core modules**
 - Adaptive learning pathways
-- Pretests, exercises, and posttests
-- Interactive simulations
+- Pretests and posttests
+- Exercises and simulations
 - AI-assisted tutor concept
 
-`Web Development` `AI Integration` `Adaptive Learning`
+`Web Development` `AI Integration`
 
 </td>
 </tr>
-</table>
-
-<!-- PROJECT 05 -->
-
-<table>
 <tr>
-<td width="36%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img width="100%" src="https://placehold.co/600x360/101827/FBBF24/png?text=05+%2F+JOB+TRACKER+API&font=montserrat" alt="Job Tracker API project cover"/>
+<div align="center">
 
-</td>
-<td width="64%" valign="top">
+<img width="100%" src="https://placehold.co/640x300/1B1508/FBBF24/png?text=05+%2F+JOB+TRACKER+API&font=montserrat" alt="Job Tracker API cover"/>
 
-### 05 / Job Tracker API
+</div>
 
-<img src="https://img.shields.io/badge/DOMAIN-BACKEND%20ENGINEERING-D97706?style=flat-square" alt="Backend engineering domain"/>
+### `05` — Job Tracker API
 
-A lightweight backend project for tracking job applications.
+<img src="https://img.shields.io/badge/BACKEND-FBBF24?style=flat-square&labelColor=080B18" alt="Backend"/>
 
+A backend project for managing and tracking job applications.
+
+**Core modules**
 - REST API endpoints
 - SQLite persistence
 - JWT authentication
 - Structured application logic
 
-`Node.js` `Express` `SQLite` `JWT`
+`Node.js` `Express` `SQLite`
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
-<!-- PROJECT 06 -->
+<div align="center">
 
-<table>
-<tr>
-<td width="36%" align="center" valign="middle">
+<img width="100%" src="https://placehold.co/640x300/071526/38BDF8/png?text=06+%2F+HOME+SERVER+LAB&font=montserrat" alt="Home server cover"/>
 
-<img width="100%" src="https://placehold.co/600x360/111827/38BDF8/png?text=06+%2F+HOME+SERVER+LAB&font=montserrat" alt="Linux home server project cover"/>
+</div>
 
-</td>
-<td width="64%" valign="top">
+### `06` — Linux Home Server Lab
 
-### 06 / Linux Home Server Lab
+<img src="https://img.shields.io/badge/INFRASTRUCTURE-38BDF8?style=flat-square&labelColor=080B18" alt="Infrastructure"/>
 
-<img src="https://img.shields.io/badge/DOMAIN-INFRASTRUCTURE-0284C7?style=flat-square" alt="Infrastructure domain"/>
+A practical environment for learning server deployment and self-hosted services.
 
-A hands-on environment for learning Linux server administration and self-hosting.
-
+**Core modules**
 - Nginx web server
 - MariaDB database
 - Cloudflare Tunnel experiments
-- Remote service administration
+- Linux service administration
 
-`Ubuntu Server` `Nginx` `MariaDB` `Cloudflare`
+`Ubuntu` `Nginx` `MariaDB`
 
 </td>
 </tr>
@@ -321,20 +292,20 @@ A hands-on environment for learning Linux server administration and self-hosting
 <div align="center">
 
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN%20THE%20VAULT-EXPLORE%20ALL%20REPOSITORIES-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+<img src="https://img.shields.io/badge/OPEN%20PROJECT%20DATABASE-EXPLORE%20ALL%20REPOSITORIES-00F5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080B18" alt="Explore all repositories"/>
 </a>
 
 </div>
 
-> **Project note:** The cover images above are visual placeholders, not screenshots of the actual applications. Replace them with screenshots from your own projects for a much more convincing portfolio. Link each project title to its actual repository when available.
+> **Visual upgrade:** The project covers above are generated placeholder images. Replace them with actual screenshots of your applications to make this section substantially more credible and distinctive. Add repository links to the corresponding project titles.
 
 ---
 
+## `04 // TECHNOLOGY MATRIX`
+
 <div align="center">
 
-## ⌘ TECHNOLOGY STACK
-
-*The tools behind the builds.*
+<img src="https://img.shields.io/badge/STACK%20PROFILE-ENGINEERING%20TOOLKIT-00F5FF?style=flat-square&labelColor=080B18" alt="Engineering toolkit"/>
 
 </div>
 
@@ -342,168 +313,217 @@ A hands-on environment for learning Linux server administration and self-hosting
 <tr>
 <td width="50%" valign="top">
 
-### FRONTEND & WEB
+### `A` / APPLICATIONS
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite&perline=3" alt="Frontend technology stack"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,react,vite,html,css,tailwind&perline=5" alt="Application development stack"/>
 
 </td>
 <td width="50%" valign="top">
 
-### BACKEND & DATABASE
+### `B` / DATA SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,sqlite&perline=3" alt="Backend technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite&perline=5" alt="Data and database stack"/>
+
+<br/>
+
+`OpenCV` · `scikit-learn`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### DATA & VISUALIZATION
+### `C` / SPATIAL & VISUAL
 
-<img src="https://skillicons.dev/icons?i=python,opencv&perline=3" alt="Data and computer vision stack"/>
-
-`scikit-learn` · `Leaflet` · `QGIS`
+<img src="https://img.shields.io/badge/Leaflet-Interactive%20Maps-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
+<img src="https://img.shields.io/badge/QGIS-Geospatial%20Analysis-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
+<img src="https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
 
 </td>
 <td width="50%" valign="top">
 
-### TOOLS & ENVIRONMENTS
+### `D` / INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,vscode&perline=3" alt="Tools and infrastructure stack"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github&perline=5" alt="Infrastructure and development tools"/>
 
-`Nginx` · `Cloudflare Tunnel`
+<br/>
+
+`Cloudflare Tunnel` · `Webmin`
 
 </td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-## ▣ GITHUB CONTROL ROOM
-
-*Repository activity and contribution overview.*
+<details>
+<summary><strong>⌁ View the engineering areas I'm exploring</strong></summary>
 
 <br/>
 
-<a href="https://github.com/ReffkiAndreaPratama">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github&include_all_commits=true" alt="GitHub statistics dashboard"/>
-</a>
+| Domain | Exploration |
+|:--|:--|
+| Web engineering | Application architecture, REST APIs, authentication |
+| Computer vision | Image preprocessing, GLCM, feature-based classification |
+| GIS | Spatial data processing, geometry validation, interactive mapping |
+| Infrastructure | Linux services, Nginx, DNS, self-hosting |
+| Reverse engineering | API behavior, binary formats, program analysis |
 
-<a href="https://github.com/ReffkiAndreaPratama">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=CBD5E1&langs_count=8" alt="Programming languages dashboard"/>
-</a>
+These are areas of practical work and ongoing exploration, not a claim of equal proficiency in every technology.
 
-<br/><br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=ReffkiAndreaPratama&hide_border=true&background=0D1117&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=67E8F9&line=6366F1&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution graph"/>
-
-</div>
-
-<sub>Statistics depend on GitHub's public data and external rendering services. The language chart reflects detected repository code, not personal proficiency.</sub>
+</details>
 
 ---
 
+## `05 // LIVE TELEMETRY`
+
 <div align="center">
 
-## ⌬ THE EXPERIMENTAL LAB
+<img src="https://img.shields.io/badge/TELEMETRY-GITHUB%20ACTIVITY-00F5FF?style=flat-square&labelColor=080B18" alt="GitHub telemetry"/>
 
-*Curiosity lives outside the comfort zone.*
+<br/><br/>
+
+<a href="https://github.com/ReffkiAndreaPratama">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&hide_border=true&bg_color=080B18&title_color=00F5FF&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics"/>
+</a><a href="https://github.com/ReffkiAndreaPratama">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&bg_color=080B18&title_color=00F5FF&text_color=E2E8F0&langs_count=8" alt="GitHub language statistics"/>
+</a>
+
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=ReffkiAndreaPratama&hide_border=true&background=080B18&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=080B18&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+<sub>Telemetry is rendered by external services and may occasionally be unavailable. Language statistics reflect repository code and should not be interpreted as a direct measure of skill.</sub>
+
+---
+
+## `06 // EXPERIMENTAL SECTOR`
+
+<div align="center">
+
+*The most interesting questions often begin beyond the obvious.*
 
 </div>
 
 <details>
-<summary><strong>01 — Reverse Engineering & API Analysis</strong></summary>
+<summary>▸ <strong>REVERSE ENGINEERING / SOFTWARE ANALYSIS</strong></summary>
 
 <br/>
 
-Exploring how software behaves, communicates, and stores information.
+Exploring how software components behave and communicate.
 
-- HTTP request and response inspection
-- API behavior and schema analysis
+- HTTP requests and response analysis
+- API schema and behavior inspection
 - Binary file format exploration
 - Program behavior analysis
-- Reproducible experiments in authorized environments
+- Reproducible testing in authorized environments
 
-**Long-term direction:** Build practical tools for developers and security researchers.
+**Objective:** Build practical tools that help developers understand software systems.
 
 </details>
 
 <details>
-<summary><strong>02 — Computer Vision & Machine Learning</strong></summary>
+<summary>▸ <strong>COMPUTER VISION / IMAGE INTELLIGENCE</strong></summary>
 
 <br/>
 
-Exploring the process of transforming images into meaningful data.
+Exploring methods for extracting meaningful information from images.
 
 - Image preprocessing
-- Texture and shape features
-- Classical machine learning
+- Texture and shape descriptors
+- Traditional machine learning
 - Classification evaluation
-- Dataset organization and visualization
+- Dataset preparation
 
-**Long-term direction:** Build reliable, explainable image analysis tools.
-
-</details>
-
-<details>
-<summary><strong>03 — Linux & Self-Hosted Infrastructure</strong></summary>
-
-<br/>
-
-Learning how applications run outside a local development machine.
-
-- Linux service management
-- Web server configuration
-- Database deployment
-- DNS and secure remote access
-- Basic server hardening and monitoring
-
-**Long-term direction:** Create maintainable infrastructure for personal projects and experiments.
+**Objective:** Develop more reliable image analysis workflows.
 
 </details>
 
 <details>
-<summary><strong>04 — GIS & Spatial Computing</strong></summary>
+<summary>▸ <strong>LINUX / INFRASTRUCTURE ENGINEERING</strong></summary>
 
 <br/>
 
-Working with spatial data and interactive geographic applications.
+Building practical knowledge of application deployment and server operations.
 
-- QGIS data processing
-- Geometry validation
-- Spatial clipping and data preparation
-- Leaflet-based interactive mapping
-- Integration of GIS with web applications
+- Linux service administration
+- Nginx and database configuration
+- DNS and remote access
+- Service monitoring
+- Basic server hardening
 
-**Long-term direction:** Build useful location-aware applications for real-world problems.
+**Objective:** Understand what it takes to run and maintain software beyond local development.
+
+</details>
+
+<details>
+<summary>▸ <strong>GIS / SPATIAL COMPUTING</strong></summary>
+
+<br/>
+
+Exploring geographic data and location-aware applications.
+
+- QGIS processing workflows
+- Spatial clipping and geometry validation
+- Interactive Leaflet maps
+- Web-based geographic information systems
+
+**Objective:** Make spatial information more accessible and useful.
 
 </details>
 
 ---
 
+## `07 // OFFLINE MODE`
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🎨
+
+**CREATE**
+
+Drawing & sketching
+
+</td>
+<td width="25%" align="center">
+
+### 🎮
+
+**PLAY**
+
+PC & mobile games
+
+</td>
+<td width="25%" align="center">
+
+### 🎬
+
+**DISCOVER**
+
+Movies & stories
+
+</td>
+<td width="25%" align="center">
+
+### 🔧
+
+**TINKER**
+
+PC hardware
+
+</td>
+</tr>
+</table>
+
 <div align="center">
 
-## ◇ OFFLINE MODE
-
-**Not everything happens in a terminal.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/CREATIVE-Drawing%20%26%20Sketching-7C3AED?style=flat-square" alt="Drawing and sketching"/>
-<img src="https://img.shields.io/badge/ENTERTAINMENT-Games%20%26%20Movies-0891B2?style=flat-square" alt="Games and movies"/>
-<img src="https://img.shields.io/badge/CURIOSITY-PC%20Hardware-16A34A?style=flat-square" alt="PC hardware"/>
-
-<br/><br/>
-
-I enjoy drawing, gaming, watching films, reading, and exploring PC hardware.
-
-Different interests, same mindset: **stay curious and keep learning.**
+Different interests. One common thread: **curiosity.**
 
 </div>
 
@@ -511,35 +531,37 @@ Different interests, same mindset: **stay curious and keep learning.**
 
 <div align="center">
 
-## ⟁ ESTABLISH CONNECTION
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F5FF,50:8B5CF6,100:22C55E&section=footer" alt="Neon divider"/>
 
-**Have an idea worth building? Let's connect.**
+<br/>
+
+## `08 // ESTABLISH CONNECTION`
+
+**Have something interesting to build? Let's connect.**
 
 <br/>
 
 <a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE%20MY%20WORK-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 <a href="https://www.instagram.com/nexreffstudio/">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-NEXREFFSTUDIO-E4405F?style=for-the-badge&logo=instagram" alt="Instagram"/>
 </a>
 <a href="https://www.tiktok.com/@nexreff">
-<img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+<img src="https://img.shields.io/badge/TIKTOK-NEXREFF-000000?style=for-the-badge&logo=tiktok" alt="TikTok"/>
 </a>
 <a href="https://www.youtube.com/@Nexreff_Studio">
-<img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<img src="https://img.shields.io/badge/YOUTUBE-NEXREFF_STUDIO-FF0033?style=for-the-badge&logo=youtube" alt="YouTube"/>
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:8B5CF6&section=footer" alt="Neon footer divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=900&color=00F5FF&center=true&vCenter=true&repeat=true&width=620&height=30&lines=BUILD+WITH+PURPOSE.;EXPLORE+WITHOUT+LIMITS.;UNDERSTAND+THE+SYSTEM.;MAKE+THE+NEXT+THING+BETTER." alt="Developer philosophy"/>
 
 <br/>
 
-`BUILD WITH PURPOSE.` &nbsp; `EXPLORE WITH CURIOSITY.` &nbsp; `IMPROVE CONTINUOUSLY.`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:22C55E,50:8B5CF6,100:00F5FF&section=footer" alt="Neon footer"/>
 
-<br/>
-
-<sub>Designed by Nexreff · Powered by curiosity.</sub>
+<sub>NEXREFF // DIGITAL WORKSPACE · Designed around curiosity and engineering.</sub>
 
 </div>
