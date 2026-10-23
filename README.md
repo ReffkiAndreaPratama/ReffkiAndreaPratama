@@ -8,30 +8,20 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=NEXREFF&fontSize=90&fontColor=FFFFFF&stroke=00F5FF&strokeWidth=1&animation=fadeIn&desc=INDEPENDENT%20MIND.%20ENGINEERING%20MINDSET.&descSize=15&descAlignY=70&color=0:050816,25:101044,60:171554,100:003B49" alt="Nexreff NEON OS hero banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:172554,100:0891B2&height=240&section=header&text=NEXREFF&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20EXPLORER&descSize=17&descAlignY=60&animation=fadeIn" alt="NEXREFF Developer Header"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2400&pause=650&color=00F5FF&center=true&vCenter=true&repeat=true&width=720&height=45&lines=%24+whoami+%E2%86%92+Reffki+Andrea+Pratama;%24+role+%E2%86%92+Informatics+Student+%2F+Developer;%24+mission+%E2%86%92+Build+something+meaningful;%24+status+%E2%86%92+Always+experimenting..." alt="Animated terminal intro"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&labelColor=080B18" alt="System online"/>
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA-8B5CF6?style=for-the-badge&labelColor=080B18" alt="Location Indonesia"/>
-<img src="https://img.shields.io/badge/MODE-BUILD%20%2F%20EXPLORE-22C55E?style=for-the-badge&labelColor=080B18" alt="Build and explore"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=600&height=35&lines=Informatics+Student+%7C+Developer;Building+useful+things+with+code;Explore.+Build.+Understand.+Improve." alt="Developer introduction"/>
 
 <br/><br/>
 
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/%5B_01_%5D_EXPLORE_PROJECTS-00F5FF?style=for-the-badge&labelColor=080B18" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 <a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/%5B_02_%5D_GITHUB_PROFILE-8B5CF6?style=for-the-badge&labelColor=080B18" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GITHUB_PROFILE-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=0891B2&label=SYSTEM+VISITORS" alt="Profile visitor counter"/>
 
 </div>
 
