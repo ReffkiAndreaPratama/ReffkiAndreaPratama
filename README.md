@@ -1,462 +1,377 @@
+<!-- =========================================================
+     NEXREFF | PROFESSIONAL GITHUB PROFILE
+     Theme: Midnight / Electric Blue / Developer Portfolio
+     Repository: ReffkiAndreaPratama/ReffkiAndreaPratama
+     ========================================================= -->
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,35:312E81,70:6D28D9,100:2563EB&height=250&section=header&text=NEXREFF&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=BUILDING%20IDEAS%20INTO%20REALITY&descSize=15&descAlignY=57&descColor=C4B5FD"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=70&lines=Hi%2C+I'm+Reffki+Andrea+Pratama+%F0%9F%91%8B;Informatics+Student+%40+University+of+Bengkulu;Software+Developer+%7C+Open+Source+Enthusiast;Exploring+AI%2C+Computer+Vision+%26+System+Internals;Learn.+Build.+Break.+Understand.+Repeat." alt="Typing animation"/>
-</a>
-
-<br/>
 
 <a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2563EB,50:6366F1,100:06B6D4&section=header" width="100%" alt="Blue gradient divider"/>
 </a>
-<a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-Explore%20My%20Work-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-<a href="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama">
-<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=6366F1&label=PROFILE+VISITORS" alt="Profile visitors"/>
-</a>
-
-<br/><br/>
-
-### `Turning curiosity into code.`
-
-*Not just writing code. Understanding what happens behind it.*
-
-</div>
-
----
-
-## `01 / WHO AM I?`
-
-```text
-╭─────────────────────────────────────────────────────────╮
-│                                                         │
-│   $ whoami                                               │
-│                                                         │
-│   reffki@developer:~$                                   │
-│                                                         │
-│   Name       : Reffki Andrea Pratama                    │
-│   Alias      : Nexreff                                  │
-│   Education  : Informatics — University of Bengkulu     │
-│   Location   : Bengkulu, Indonesia 🇮🇩                  │
-│   Role       : Student / Developer / Tech Explorer      │
-│                                                         │
-│   Current mission:                                      │
-│   Build useful software, explore system internals,      │
-│   and turn technical curiosity into real projects.      │
-│                                                         │
-╰─────────────────────────────────────────────────────────╯
-```
-
-Hey there! 👋 I'm **Reffki**, an Informatics student who enjoys exploring technology, building applications, and understanding how software works beneath the surface.
-
-My interests go beyond conventional web development. I enjoy experimenting with Linux servers, working with computer vision, building APIs, exploring reverse engineering, and developing tools that solve practical problems.
-
-I believe the best way to learn technology is to **build something, investigate how it works, identify what can be improved, and keep experimenting.**
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Reffki Andrea Pratama"
-        self.alias = "Nexreff"
-        self.location = "Indonesia"
-        self.interests = [
-            "Software Engineering",
-            "Computer Vision & AI",
-            "Reverse Engineering",
-            "Linux & Self-Hosting",
-            "Open Source"
-        ]
-
-    def mindset(self):
-        return "Curiosity -> Experiment -> Understand -> Build"
-
-me = Developer()
-```
-
-<details>
-<summary><b>⚡ More about me</b></summary>
 
 <br/>
 
-- 🎓 Currently studying Informatics at the University of Bengkulu.
-- 💻 Interested in backend development, APIs, and system architecture.
-- 🧠 Exploring machine learning and computer vision.
-- 🐧 Enjoy experimenting with Linux, home servers, and self-hosted services.
-- 🔬 Interested in reverse engineering, binary analysis, and software internals.
-- 🗺️ Have worked on geographic information systems and interactive mapping.
-- 🛠️ Enjoy troubleshooting hardware and software problems.
-- 🌱 Always learning something new through practical projects.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&repeat=true&width=700&height=45&lines=REFFKI+ANDREA+PRATAMA;INFORMATICS+STUDENT+%7C+DEVELOPER;BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPERIMENTING" alt="Animated developer introduction"/>
 
-</details>
+### `Engineering ideas into practical solutions.`
 
----
+<p>
+  <img src="https://img.shields.io/badge/FOCUS-Software%20Engineering-2563EB?style=flat-square" alt="Software Engineering"/>
+  <img src="https://img.shields.io/badge/INTEREST-Computer%20Vision-6366F1?style=flat-square" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/EXPLORING-Systems%20%26%20Security-0891B2?style=flat-square" alt="Systems and Security"/>
+</p>
 
-## `02 / TECH ARSENAL`
+<p>
+  <a href="https://github.com/ReffkiAndreaPratama">
+    <img src="https://img.shields.io/badge/GitHub-ReffkiAndreaPratama-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/@Nexreff_Studio">
+    <img src="https://img.shields.io/badge/YouTube-Nexreff_Studio-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a href="https://www.instagram.com/nexreffstudio/">
+    <img src="https://img.shields.io/badge/Instagram-nexreffstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=php,js,python,html,css&theme=dark" alt="Programming languages"/>
-
-### 🌐 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,vite,react&theme=dark" alt="Development technologies"/>
-
-### 🗄️ Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,nginx,cloudflare,git,github,docker&theme=dark" alt="Infrastructure technologies"/>
-
-### 🧠 Computer Vision & Geospatial
-
-<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" alt="Computer vision technologies"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Leaflet-Interactive%20Mapping-199900?style=flat-square&logo=leaflet&logoColor=white" alt="Leaflet"/>
-<img src="https://img.shields.io/badge/QGIS-Geospatial%20Analysis-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS"/>
-<img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
-> **Note:** The icons represent technologies I've worked with or explored. They are not intended to imply equal proficiency across every technology.
+---
+
+## `01 / ABOUT`
+
+<img align="right" width="165" src="https://github.com/ReffkiAndreaPratama.png" alt="Reffki Andrea Pratama's GitHub avatar"/>
+
+Hi! I'm **Reffki Andrea Pratama**, an Informatics student at **Universitas Bengkulu, Indonesia**, interested in building software, exploring technical systems, and turning ideas into useful projects.
+
+I enjoy working across different layers of technology—from web application development and database design to image processing, geographic information systems, and Linux-based environments.
+
+I'm especially interested in understanding **how systems work beneath the surface**, not just how to use them.
+
+- 🎓 **Background:** Informatics
+- 💻 **Core interest:** Software development and system engineering
+- 🧠 **Exploring:** Computer Vision, GIS, reverse engineering, and API analysis
+- 🛠️ **Approach:** Learn by building, testing, debugging, and documenting
+- 🌱 **Current goal:** Develop useful, maintainable, and technically meaningful projects
+
+<br clear="right"/>
+
+> I believe the best way to understand technology is to build with it, break things in a controlled environment, and learn why they work.
 
 ---
 
-## `03 / PROJECT SHOWCASE`
+## `02 / TECHNICAL ARSENAL`
 
-<div align="center">
+My toolkit is organized by engineering domain rather than a single list of technologies.
 
-### Featured Work
+### Web Development
 
-*Applications, experiments, and ideas built to solve real problems.*
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,react,vite,html,css,tailwind&perline=10" alt="Web development technologies"/>
+</p>
 
-</div>
+Building web applications, REST APIs, CRUD systems, dashboards, and interactive interfaces.
+
+### Data & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,python&perline=10" alt="Data and database technologies"/>
+</p>
+
+Database modeling, SQL, application data management, Python scripting, and data processing.
+
+### Computer Vision & Geospatial
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/Leaflet-Interactive%20Maps-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet"/>
+  <img src="https://img.shields.io/badge/QGIS-Geospatial%20Analysis-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"/>
+</p>
+
+Image feature extraction, image classification experiments, interactive maps, and geospatial data processing.
+
+### Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,nginx,docker,git,github,vscode&perline=10" alt="Systems and development tools"/>
+  <img src="https://img.shields.io/badge/Cloudflare-Tunnel%20%26%20DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+</p>
+
+Linux administration, web server configuration, self-hosting experiments, version control, and development environments.
+
+---
+
+## `03 / SELECTED PROJECTS`
+
+Projects are where I explore ideas, solve practical problems, and turn concepts into working software.
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
-### 🗺️ Coastal Tourism WebGIS
+### 🌍 Interactive Coastal Tourism WebGIS
 
-**Category:** Web Development / GIS
+**Domain:** Web Development · GIS
 
-An interactive mapping application for exploring coastal tourism destinations in Bengkulu.
+An interactive mapping application for discovering coastal tourism destinations in Bengkulu.
 
-**Highlights**
-- Interactive maps with Leaflet.
-- Destination management.
-- CRUD operations.
-- Destination information and reviews.
+- Interactive maps with Leaflet
+- Destination data management
+- Administrative CRUD functionality
+- Destination reviews and ratings
 
-**Stack**
+**Stack:** `Laravel` `PHP` `MySQL` `Leaflet`
 
-`Laravel` `PHP` `MySQL` `Leaflet`
+    </td>
+    <td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🏢 Office Asset Management System
 
-### 📦 Office Asset Management
+**Domain:** Information Systems
 
-**Category:** Information Systems
+A web-based information system designed to organize and track office assets at RBTV Bengkulu.
 
-A web-based asset management system developed for an internship project at RBTV Bengkulu.
+- Asset inventory management
+- Incoming and outgoing asset records
+- Administrative dashboard
+- Report generation and printing
 
-**Highlights**
-- Asset inventory management.
-- Incoming and outgoing asset records.
-- Administrative dashboard.
-- Printable and PDF reports.
+**Stack:** `Laravel` `PHP` `MySQL`
 
-**Stack**
-
-`Laravel` `PHP` `MySQL`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🌾 Rice Image Classification
 
-**Category:** Computer Vision / ML
+**Domain:** Computer Vision · Machine Learning
 
-An image classification project for exploring machine learning techniques to identify rice varieties.
+An image classification project exploring visual features to distinguish rice categories.
 
-**Highlights**
-- Image preprocessing.
-- GLCM texture features.
-- Shape feature extraction.
-- Model training and evaluation.
-- Image prediction interface.
+- Image preprocessing
+- GLCM texture feature extraction
+- Shape feature analysis
+- SVM and Random Forest experiments
+- Tkinter-based classification interface
 
-**Stack**
+**Stack:** `Python` `OpenCV` `scikit-learn` `Tkinter`
 
-`Python` `OpenCV` `scikit-learn`
-
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 🧠 TechDiagnose AI
 
-**Category:** AI / Adaptive Learning
+**Domain:** Educational Technology · Adaptive Learning
 
-An adaptive learning project concept for teaching PC and laptop troubleshooting.
+An adaptive learning concept focused on diagnosing and troubleshooting PC and laptop problems.
 
-**Planned features**
-- Interactive diagnosis simulations.
-- Pretests and posttests.
-- Adaptive learning recommendations.
-- AI Tutor with contextual hints.
-- Step-by-step troubleshooting exercises.
+- Adaptive learning pathways
+- Pretests and posttests
+- Interactive exercises and simulations
+- AI-assisted tutoring concept
+- Learning progress evaluation
 
-**Focus**
+**Focus:** `Web Development` `AI Integration` `Adaptive Learning`
 
-`AI` `Adaptive Learning` `Intelligent Tutor`
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### ⚡ Job Tracker API
 
-### 🔌 Job Tracker API
+**Domain:** Backend Development
 
-**Category:** Backend Engineering
+A lightweight API project for organizing and tracking job applications.
 
-A backend application for organizing job applications and tracking their progress.
+- REST API development
+- SQLite data persistence
+- JWT-based authentication
+- Structured backend logic
 
-**Highlights**
-- REST API development.
-- Authentication with JWT.
-- SQLite persistence.
-- Environment-based configuration.
+**Stack:** `Node.js` `Express` `SQLite` `JWT`
 
-**Stack**
+    </td>
+    <td width="50%" valign="top">
 
-`Node.js` `Express` `SQLite` `JWT`
+### 🖥️ Linux Home Server Lab
 
-</td>
-<td width="50%" valign="top">
+**Domain:** Systems Administration · Self-Hosting
 
-### 🐧 Home Server & Self-Hosting
+A hands-on environment for learning server administration and self-hosted services.
 
-**Category:** Linux / Infrastructure
+- Linux server configuration
+- Nginx web server
+- MariaDB database
+- Cloudflare Tunnel experiments
+- Web-based server administration
 
-Hands-on experiments with Linux server administration and self-hosted services.
+**Stack:** `Ubuntu Server` `Nginx` `MariaDB` `Cloudflare`
 
-**Areas explored**
-- Linux server configuration.
-- Nginx and database services.
-- Cloudflare Tunnel.
-- Remote access and deployment.
-- Server troubleshooting.
-
-**Stack**
-
-`Linux` `Nginx` `MariaDB` `Cloudflare`
-
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
 <div align="center">
 
+**Explore my repositories and ongoing experiments**
+
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
-**Project note:** These are project summaries based on my development work and experiments. Some projects are still evolving, and planned features should not be interpreted as completed functionality.
+---
+
+## `04 / ENGINEERING LAB`
+
+Beyond application development, I enjoy exploring the technical details behind software, data, and infrastructure.
+
+<details>
+  <summary><strong>🔬 Computer Vision & Image Processing</strong></summary>
+
+  <br/>
+
+  Topics I explore:
+
+  - Image preprocessing and representation
+  - Texture analysis using GLCM
+  - Shape-based feature extraction
+  - Traditional machine learning classifiers
+  - Evaluation of image classification results
+
+  **Objective:** Understand the complete pipeline from raw image data to model prediction.
+
+</details>
+
+<details>
+  <summary><strong>🧩 Reverse Engineering & API Analysis</strong></summary>
+
+  <br/>
+
+  Areas I want to explore and develop further:
+
+  - HTTP request and response analysis
+  - API behavior and schema inspection
+  - Binary file format exploration
+  - Program behavior analysis
+  - Reproducible technical experiments
+
+  **Objective:** Understand how software components communicate and behave, using authorized testing environments and software I have permission to analyze.
+
+</details>
+
+<details>
+  <summary><strong>🐧 Linux, Networking & Self-Hosting</strong></summary>
+
+  <br/>
+
+  Practical learning areas:
+
+  - Linux service administration
+  - Nginx and database configuration
+  - DNS and Cloudflare Tunnel
+  - Remote access and server maintenance
+  - Basic hardening and service monitoring
+
+  **Objective:** Build a better understanding of how applications operate outside a local development environment.
+
+</details>
+
+<details>
+  <summary><strong>🗺️ GIS & Interactive Mapping</strong></summary>
+
+  <br/>
+
+  Areas of interest:
+
+  - Spatial data preparation
+  - QGIS processing workflows
+  - Geometry validation and clipping
+  - Interactive map development
+  - Integrating geospatial data with web applications
+
+  **Objective:** Turn geographic data into useful and accessible digital information.
+
+</details>
 
 ---
 
-## `04 / GITHUB ANALYTICS`
+## `05 / GITHUB ANALYTICS`
+
+A snapshot of my public GitHub activity.
 
 <div align="center">
 
-### 📊 Development Overview
+<a href="https://github.com/ReffkiAndreaPratama">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/ReffkiAndreaPratama">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Most used programming languages"/>
+</a>
 
-<a href="https://github.com/ReffkiAndreaPratama">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ReffkiAndreaPratama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/ReffkiAndreaPratama">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-</a>
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-### 🔥 Contribution Streak
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+
+</div>
+
+<sub>Note: These cards depend on third-party services and public GitHub data. Language statistics represent detected repository code, not a complete measurement of personal proficiency.</sub>
+
+---
+
+## `06 / BEYOND THE CODE`
+
+Technology is only one part of what I enjoy.
+
+| Interest | What I enjoy |
+|:--|:--|
+| 🎨 Drawing | Sketching ideas and exploring visual styles |
+| 🎮 Gaming | Playing games on PC and mobile |
+| 🎬 Movies | Watching films and discovering interesting stories |
+| 📚 Reading | Learning from books, articles, and technical documentation |
+| 🔧 Hardware | Exploring PC components, troubleshooting, and system configuration |
+
+I like balancing technical exploration with creative activities—and I am always open to discovering something new.
+
+---
+
+## `07 / LET'S CONNECT`
+
+Have an interesting project, a technical idea, or an opportunity to collaborate? Feel free to reach out.
+
+<div align="center">
 
 <a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ReffkiAndreaPratama&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>
 </a>
-
-<br/><br/>
-
-### 📈 Contribution Activity
-
-<a href="https://github.com/ReffkiAndreaPratama">
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
-</a>
-
-</div>
-
----
-
-## `05 / THE DEVELOPER LAB`
-
-> *The best way to understand a system is to experiment with it.*
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/01-REVERSE%20ENGINEERING-7C3AED?style=for-the-badge" alt="Reverse engineering"/>
-<img src="https://img.shields.io/badge/02-COMPUTER%20VISION-4F46E5?style=for-the-badge" alt="Computer vision"/>
-<img src="https://img.shields.io/badge/03-LINUX%20%26%20SERVERS-2563EB?style=for-the-badge" alt="Linux"/>
-<img src="https://img.shields.io/badge/04-OPEN%20SOURCE-0891B2?style=for-the-badge" alt="Open source"/>
-
-</div>
-
-<details>
-<summary><b>🔬 Reverse Engineering & Binary Analysis</b></summary>
-
-<br/>
-
-Areas I want to explore and develop through practical experiments:
-
-- Static and dynamic binary analysis.
-- Executable file formats and program structure.
-- Understanding API behavior.
-- Debugging and tracing program execution.
-- Developing CLI tools for technical investigation.
-
-**Goal:** Build practical tools that help developers understand software behavior and investigate technical problems.
-
-</details>
-
-<details>
-<summary><b>🧠 Computer Vision & Applied AI</b></summary>
-
-<br/>
-
-Areas of interest:
-
-- Image preprocessing and feature extraction.
-- Texture analysis using GLCM.
-- Image classification and model evaluation.
-- Dataset preparation and experimentation.
-- Practical AI applications with useful interfaces.
-
-**Goal:** Turn machine learning experiments into applications that can be used outside a notebook.
-
-</details>
-
-<details>
-<summary><b>🐧 Linux & Self-Hosting</b></summary>
-
-<br/>
-
-Areas of interest:
-
-- Linux server administration.
-- Service deployment and reverse proxies.
-- Network configuration and remote access.
-- Database and web server management.
-- Monitoring, automation, and security hardening.
-
-**Goal:** Understand the complete path from application development to production deployment.
-
-</details>
-
----
-
-## `06 / CONTRIBUTION SNAKE`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg" alt="GitHub contribution snake animation" width="100%"/>
-
-</div>
-
-<details>
-<summary><b>⚙️ How this animation works</b></summary>
-
-<br/>
-
-The contribution snake is generated from GitHub contribution data using the `Platane/snk` project and published to the `output` branch through GitHub Actions.
-
-Repository: https://github.com/Platane/snk
-
-The animation will only appear after the workflow has been configured and run successfully.
-
-</details>
-
----
-
-## `07 / BEYOND THE CODE`
-
-<div align="center">
-
-| 🎨 Creative Side | 🎮 Off-Screen Side | 🧩 Curiosity |
-|:---:|:---:|:---:|
-| Drawing & sketching | PC & mobile games | Hardware troubleshooting |
-| Visual experimentation | Movies & reading | Exploring how things work |
-| UI inspiration | Technology experiments | Learning new tools |
-
-</div>
-
-I enjoy combining technical thinking with creativity. For me, programming is not just about getting code to run; it's also about finding better ways to express ideas, solve problems, and build things people can actually use.
-
----
-
-## `08 / CONNECT WITH ME`
-
-<div align="center">
-
-### Let's build something interesting. 🤝
-
-Open to discussing projects, exchanging ideas, learning together, and exploring open-source development.
-
-<br/>
-
-<a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://instagram.com/nexreffstudio">
-<img src="https://img.shields.io/badge/Instagram-Nexreff%20Studio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://www.youtube.com/@Nexreff_Studio">
-<img src="https://img.shields.io/badge/YouTube-Nexreff%20Studio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+<a href="https://www.instagram.com/nexreffstudio/">
+  <img src="https://img.shields.io/badge/Instagram-@nexreffstudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="https://www.tiktok.com/@nexreff">
-<img src="https://img.shields.io/badge/TikTok-Nexreff-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  <img src="https://img.shields.io/badge/TikTok-@nexreff-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+</a>
+<a href="https://www.youtube.com/@Nexreff_Studio">
+  <img src="https://img.shields.io/badge/YouTube-Nexreff_Studio-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/Have%20an%20idea%3F-Let's%20build%20it-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate"/>
-</a>
+### `BUILD • EXPLORE • UNDERSTAND • IMPROVE`
 
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090F,40:312E81,100:2563EB&height=140&section=footer"/>
-
-### `STAY CURIOUS. KEEP BUILDING.`
-
-**Reffki Andrea Pratama · Nexreff Studio**
-
-<sub>Designed with curiosity, developed with code, improved through experimentation.</sub>
+*Curiosity starts the experiment. Consistency turns it into progress.*
 
 <br/>
 
-<sub>⭐ If you find something useful in my repositories, consider leaving a star!</sub>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=0:06B6D4,50:6366F1,100:2563EB&section=footer" width="100%" alt="Blue gradient footer"/>
 
 </div>
