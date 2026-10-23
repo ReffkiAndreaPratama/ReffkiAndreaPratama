@@ -421,7 +421,11 @@ These are areas of practical work and ongoing exploration, not a claim of equal 
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact](https://github-stats-extended.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E2E8F0&langs_count=6" width="100%" alt="Top Languages"/>
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&theme=dark"
+  width="100%"
+  alt="Top Languages"
+/>
 
 </td>
 </tr>
@@ -447,7 +451,11 @@ These are areas of practical work and ongoing exploration, not a claim of equal 
 
 ### ⌁ CONTRIBUTION ACTIVITY
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
