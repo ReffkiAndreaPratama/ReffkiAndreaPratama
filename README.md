@@ -8,20 +8,47 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:172554,100:0891B2&height=240&section=header&text=NEXREFF&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20EXPLORER&descSize=17&descAlignY=60&animation=fadeIn" alt="NEXREFF Developer Header"/>
+<!-- HERO BANNER -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B18,45:172554,100:0891B2&height=240&section=header&text=NEXREFF&fontSize=78&fontColor=FFFFFF&fontAlignY=38&desc=DEVELOPER%20%2F%20BUILDER%20%2F%20EXPLORER&descSize=17&descAlignY=60&animation=fadeIn" alt="NEXREFF Developer Banner"/>
+
+<!-- ANIMATED INTRO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=650&height=40&lines=Informatics+Student+%7C+Developer;Building+useful+things+with+code;Web+Development+%2F+Computer+Vision;Explore.+Build.+Understand.+Improve." alt="Animated developer introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=600&height=35&lines=Informatics+Student+%7C+Developer;Building+useful+things+with+code;Explore.+Build.+Understand.+Improve." alt="Developer introduction"/>
+<!-- STATUS BADGES -->
+
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-22C55E?style=for-the-badge&labelColor=0B1020" alt="Status always learning"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-06B6D4?style=for-the-badge&labelColor=0B1020" alt="Software engineering"/>
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA-8B5CF6?style=for-the-badge&labelColor=0B1020" alt="Indonesia"/>
 
 <br/><br/>
 
+<!-- PROFILE METRICS -->
+
+<img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/ReffkiAndreaPratama?style=for-the-badge&logo=github&label=FOLLOWERS&color=6366F1&labelColor=0B1020" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/stars/ReffkiAndreaPratama?style=for-the-badge&logo=github&label=TOTAL+STARS&color=F59E0B&labelColor=0B1020" alt="Total repository stars"/>
+
+<br/><br/>
+
+<!-- NAVIGATION -->
+
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECTS-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/01-EXPLORE%20PROJECTS-06B6D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="Explore projects"/>
 </a>
 <a href="https://github.com/ReffkiAndreaPratama">
-<img src="https://img.shields.io/badge/GITHUB_PROFILE-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/02-GITHUB%20PROFILE-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1020" alt="GitHub profile"/>
 </a>
+<a href="https://www.youtube.com/@Nexreff_Studio">
+<img src="https://img.shields.io/badge/03-YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0B1020" alt="YouTube channel"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:6366F1,100:8B5CF6&section=header" width="100%" alt="Gradient divider"/>
 
 </div>
 
