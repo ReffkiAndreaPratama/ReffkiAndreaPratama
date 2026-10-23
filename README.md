@@ -421,7 +421,7 @@ These are areas of practical work and ongoing exploration, not a claim of equal 
 
 ### 💻 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E2E8F0&langs_count=6" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact](https://github-stats-extended.vercel.app/api/top-langs/?username=ReffkiAndreaPratama&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E2E8F0&langs_count=6" width="100%" alt="Top Languages"/>
 
 </td>
 </tr>
