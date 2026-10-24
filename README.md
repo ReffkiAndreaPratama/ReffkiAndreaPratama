@@ -60,7 +60,7 @@
 
 ## `01 // IDENTITY`
 
-### Hello, world. I'm Reffki.
+### Hello, world. I'm Reffki Andrea Pratama.
 
 An Informatics student at **Universitas Bengkulu** who enjoys building software, exploring technical systems, and turning ideas into practical projects.
 
@@ -81,7 +81,7 @@ My approach is simple: build it, test it, understand it, improve it.
 
 <img width="180" src="https://github.com/ReffkiAndreaPratama.png" alt="Nexreff avatar"/>
 
-### NEXREFF
+### Reffki Andrea Pratama 
 
 `DEV PROFILE / 001`
 
