@@ -26,6 +26,17 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 </div>
 
+<div align="center">
+
+<a href="#01--the-person-behind-the-code">ABOUT</a> &nbsp;·&nbsp;
+<a href="#02--featured-work">PROJECTS</a> &nbsp;·&nbsp;
+<a href="#03--technology-toolkit">TECH STACK</a> &nbsp;·&nbsp;
+<a href="#04--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
+<a href="#05--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
+<a href="#07--lets-connect">CONTACT</a>
+
+</div>
+
 ---
 
 ## ✦ 01 / THE PERSON BEHIND THE CODE
@@ -82,6 +93,8 @@ A selection of academic and personal projects. The illustrations below are custo
 
 **A geospatial tourism information system for destinations around Bengkulu.**
 
+<sub>PROJECT TYPE · Academic / Portfolio</sub>
+
 - Destination catalogue and detail pages.
 - Interactive Leaflet map and category markers.
 - User reviews and star ratings.
@@ -99,6 +112,8 @@ A selection of academic and personal projects. The illustrations below are custo
 <img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-simaset.svg" width="100%" alt="Concept visual for SimAset asset management"/>
 
 **A web-based office asset management system developed for RBTV Bengkulu as a practical-work project.**
+
+<sub>PROJECT TYPE · Practical Work (KP)</sub>
 
 - Asset and room master data.
 - QR-code generation and browser scanning.
@@ -121,6 +136,8 @@ A selection of academic and personal projects. The illustrations below are custo
 
 **An image-based rice variety classification project comparing classical machine-learning approaches.**
 
+<sub>PROJECT TYPE · Computer Vision Coursework</sub>
+
 - Image preprocessing and feature extraction.
 - Color, texture (GLCM), and shape descriptors.
 - SVM and Random Forest model comparison.
@@ -139,6 +156,8 @@ A selection of academic and personal projects. The illustrations below are custo
 <img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-codevault.svg" width="100%" alt="Concept visual for CodeVault snippet manager"/>
 
 **A code-snippet manager for organizing, searching, versioning, and reusing code.**
+
+<sub>PROJECT TYPE · Personal Software Project</sub>
 
 - Editor with syntax highlighting.
 - Tags, collections, and global search.
@@ -160,6 +179,8 @@ A selection of academic and personal projects. The illustrations below are custo
 <img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-speech.svg" width="100%" alt="Concept visual for Bahasa Bengkulu speech recognition research"/>
 
 **A research prototype exploring speech recognition for a low-resource regional language.**
+
+<sub>PROJECT TYPE · Research Prototype</sub>
 
 - Audio preprocessing and dataset preparation.
 - CNN–BiLSTM–CTC model pipeline.
@@ -194,6 +215,35 @@ Current exploration areas:
 </tr>
 </table>
 
+### PROJECT DOCUMENTATION SPOTLIGHT
+
+The following are **system design documents**, not application screenshots. They offer a closer look at the engineering and data modelling behind SimAset.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Use Case Diagram**
+
+<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/12_UseCase.png">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/12_UseCase.png" width="100%" alt="SimAset use case diagram"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**Entity Relationship Diagram**
+
+<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/11_ERD.png">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/11_ERD.png" width="100%" alt="SimAset entity relationship diagram"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> Real interface screenshots are not included yet because the available repository assets are project illustrations and technical diagrams. I prefer to add verified application captures rather than label design artwork as a live product screenshot.
+
 ## ✦ 03 / TECHNOLOGY TOOLKIT
 
 <div align="center">
@@ -224,7 +274,25 @@ Current exploration areas:
 
 <sub>Technologies shown reflect a mix of hands-on project use, coursework, and ongoing exploration — not a ranking of proficiency.</sub>
 
-## ✦ 04 / MY DEVELOPER JOURNEY
+## ✦ 04 / HOW I APPROACH ENGINEERING
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/engineering-lifecycle.svg" width="100%" alt="Engineering workflow: understand, design, build, validate"/>
+
+</div>
+
+I approach projects as an iterative engineering process: understand the real problem, design the data and system structure, implement the solution, then validate and refine it.
+
+| Engineering area | What I pay attention to |
+|:--|:--|
+| **Problem analysis** | User needs, scope, constraints, and expected outcomes |
+| **System design** | Data relationships, application flow, and access control |
+| **Implementation** | Readable code, reusable components, and clear separation of concerns |
+| **Validation** | Functional checks, edge cases, and evaluation metrics |
+| **Documentation** | Setup instructions, diagrams, and reproducible workflows |
+
+## ✦ 05 / MY DEVELOPER JOURNEY
 
 <div align="center">
 
@@ -267,7 +335,7 @@ Current exploration areas:
 </tr>
 </table>
 
-## ✦ 05 / GITHUB ACTIVITY
+## ✦ 06 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -290,7 +358,7 @@ Current exploration areas:
 
 <sub>Statistics and graphs are generated by third-party services. They may occasionally be unavailable, and language distribution is not a measure of skill level.</sub>
 
-## ✦ 06 / BEYOND THE SCREEN
+## ✦ 07 / BEYOND THE SCREEN
 
 <div align="center">
 
@@ -300,7 +368,7 @@ Current exploration areas:
 
 ---
 
-## ✦ 07 / LET'S CONNECT
+## ✦ 08 / LET'S CONNECT
 
 <div align="center">
 
@@ -316,5 +384,7 @@ Current exploration areas:
 <img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-footer.svg" width="100%" alt="Reffki Andrea Pratama — Learn, build, improve"/>
 
 **REFFKI ANDREA PRATAMA** · Learn continuously. Build thoughtfully.
+
+<sub>Designed as a living portfolio — project details and learning areas evolve as I build.</sub>
 
 </div>
