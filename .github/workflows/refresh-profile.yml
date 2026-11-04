@@ -30,8 +30,8 @@ jobs:
               .slice(0, 5);
 
             const safe = value => String(value || "")
-              .replace(/[|]/g, "\\|")
-              .replace(/[\\r\\n]+/g, " ")
+              .replace(/\|/g, "\\|")
+              .replace(/[\r\n]+/g, " ")
               .trim();
 
             const rows = items.length
@@ -39,8 +39,8 @@ jobs:
                   const description = safe(item.description) || "No description provided.";
                   const language = safe(item.language) || "—";
                   const updated = new Date(item.updated_at).toISOString().slice(0, 10);
-                  return `| [${safe(item.name)}](${item.html_url}) | ${description} | ${language} | ${updated} |`;
-                }).join("\\n")
+                  return "| [" + safe(item.name) + "](" + item.html_url + ") | " + description + " | " + language + " | " + updated + " |";
+                }).join("\n")
               : "| No public repositories found | — | — | — |";
 
             const start = "<!-- RECENT_REPOSITORIES_START -->";
@@ -57,19 +57,19 @@ jobs:
               "|:--|:--|:--:|:--:|",
               rows,
               end
-            ].join("\\n");
+            ].join("\n");
 
             if (!content.includes(start) || !content.includes(end)) {
               core.setFailed("README activity markers are missing; refusing to overwrite content.");
               return;
             }
 
-            const updated = content.replace(
+            const updatedContent = content.replace(
               new RegExp(start + "[\\s\\S]*?" + end),
               block
             );
 
-            if (updated === content) {
+            if (updatedContent === content) {
               core.info("Repository activity is already up to date.");
               return;
             }
@@ -79,6 +79,6 @@ jobs:
               repo,
               path: "README.md",
               message: "chore: refresh profile repository activity",
-              content: Buffer.from(updated).toString("base64"),
+              content: Buffer.from(updatedContent).toString("base64"),
               sha: file.sha
             });
