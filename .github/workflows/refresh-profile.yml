@@ -1,0 +1,84 @@
+name: Refresh profile repository activity
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update recently updated repositories
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+            const { data } = await github.rest.repos.listForUser({
+              username: owner,
+              sort: "updated",
+              direction: "desc",
+              per_page: 100
+            });
+
+            const items = data
+              .filter(item => !item.fork && item.name.toLowerCase() !== repo.toLowerCase())
+              .slice(0, 5);
+
+            const safe = value => String(value || "")
+              .replace(/[|]/g, "\\|")
+              .replace(/[\\r\\n]+/g, " ")
+              .trim();
+
+            const rows = items.length
+              ? items.map(item => {
+                  const description = safe(item.description) || "No description provided.";
+                  const language = safe(item.language) || "—";
+                  const updated = new Date(item.updated_at).toISOString().slice(0, 10);
+                  return `| [${safe(item.name)}](${item.html_url}) | ${description} | ${language} | ${updated} |`;
+                }).join("\\n")
+              : "| No public repositories found | — | — | — |";
+
+            const start = "<!-- RECENT_REPOSITORIES_START -->";
+            const end = "<!-- RECENT_REPOSITORIES_END -->";
+            const { data: file } = await github.rest.repos.getContent({
+              owner,
+              repo,
+              path: "README.md"
+            });
+            const content = Buffer.from(file.content, "base64").toString("utf8");
+            const block = [
+              start,
+              "| Repository | Description | Main language | Last updated (UTC) |",
+              "|:--|:--|:--:|:--:|",
+              rows,
+              end
+            ].join("\\n");
+
+            if (!content.includes(start) || !content.includes(end)) {
+              core.setFailed("README activity markers are missing; refusing to overwrite content.");
+              return;
+            }
+
+            const updated = content.replace(
+              new RegExp(start + "[\\s\\S]*?" + end),
+              block
+            );
+
+            if (updated === content) {
+              core.info("Repository activity is already up to date.");
+              return;
+            }
+
+            await github.rest.repos.createOrUpdateFileContents({
+              owner,
+              repo,
+              path: "README.md",
+              message: "chore: refresh profile repository activity",
+              content: Buffer.from(updated).toString("base64"),
+              sha: file.sha
+            });
