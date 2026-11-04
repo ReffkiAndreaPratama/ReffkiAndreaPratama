@@ -299,7 +299,7 @@ Areas I continue to explore:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-footer.svg" width="100%" alt="NEXREFF — Learn, build, iterate"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-footer.svg" width="100%" alt="Reffki Andrea Pratama — Learn, build, improve"/>
 
 **REFFKI ANDREA PRATAMA** · Learn continuously. Build thoughtfully.
 
