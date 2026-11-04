@@ -578,11 +578,11 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 <!-- RECENT_REPOSITORIES_START -->
 | Repository | Description | Main language | Last updated (UTC) |
 |:--|:--|:--:|:--:|
-| [Tugas](undefined) | No description provided. | — |  |
-| [TugasUtsSmtr1](undefined) | No description provided. | — |  |
-| [Bb](undefined) | No description provided. | — |  |
-| [TUGS](undefined) | No description provided. | — |  |
-| [Biodata](undefined) | No description provided. | — |  |
+| [Tugas](https://github.com/ReffkiAndreaPratama/Tugas) | Tugas UTS Team 1 Kelas A | HTML | 2026-10-23 |
+| [TugasUtsSmtr1](https://github.com/ReffkiAndreaPratama/TugasUtsSmtr1) | Team 1 kelas A Reffki Andrea Pratama (G1A023039) dan Billgram Melkisedek(G1A023063) | Java | 2026-01-04 |
+| [Bb](https://github.com/ReffkiAndreaPratama/Bb) | No description provided. | Java | 2023-11-03 |
+| [TUGS](https://github.com/ReffkiAndreaPratama/TUGS) | CODING TASK | Java | 2026-01-04 |
+| [Biodata](https://github.com/ReffkiAndreaPratama/Biodata) | TUGAS LAPORAN 1 | HTML | 2026-01-03 |
 <!-- RECENT_REPOSITORIES_END -->
 
 ## ✦ 12 / LET'S CONNECT
