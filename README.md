@@ -578,11 +578,11 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 <!-- RECENT_REPOSITORIES_START -->
 | Repository | Description | Main language | Last updated (UTC) |
 |:--|:--|:--:|:--:|
-| [Tugas](https://github.com/ReffkiAndreaPratama/Tugas) | Tugas UTS Team 1 Kelas A | HTML | 2026-10-23 |
-| [TugasUtsSmtr1](https://github.com/ReffkiAndreaPratama/TugasUtsSmtr1) | Team 1 kelas A Reffki Andrea Pratama (G1A023039) dan Billgram Melkisedek(G1A023063) | Java | 2026-01-04 |
-| [Bb](https://github.com/ReffkiAndreaPratama/Bb) | No description provided. | Java | 2023-11-03 |
-| [TUGS](https://github.com/ReffkiAndreaPratama/TUGS) | CODING TASK | Java | 2026-01-04 |
-| [Biodata](https://github.com/ReffkiAndreaPratama/Biodata) | TUGAS LAPORAN 1 | HTML | 2026-01-03 |
+| [speachtotext](https://github.com/ReffkiAndreaPratama/speachtotext) | No description provided. | Python | 2026-10-23 |
+| [Sesi-4---RICE-CLASSIFICATION-AI](https://github.com/ReffkiAndreaPratama/Sesi-4---RICE-CLASSIFICATION-AI) | Klasifikasi Jenis Beras Menggunakan SVM dan Random Forest Berdasarkan Citra Digital implementasi materi sesi 4 matakuliah deeplearning | Python | 2026-10-20 |
+| [codevault](https://github.com/ReffkiAndreaPratama/codevault) | No description provided. | PHP | 2026-10-05 |
+| [Project-kp-simaset](https://github.com/ReffkiAndreaPratama/Project-kp-simaset) | No description provided. | Blade | 2026-06-05 |
+| [Websiste-Peta-Interaktif-Pariwisata-Bengkulu](https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu) | No description provided. | Blade | 2026-05-19 |
 <!-- RECENT_REPOSITORIES_END -->
 
 ## ✦ 12 / LET'S CONNECT
