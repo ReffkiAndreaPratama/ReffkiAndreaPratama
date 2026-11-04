@@ -1,8 +1,8 @@
-<!-- NEXREFF | GitHub Profile -->
+<!-- Reffki Andrea Pratama | GitHub Profile -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-animated-banner.svg" width="100%" alt="Animated NEXREFF banner"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-animated-banner.svg" width="100%" alt="Animated Reffki Andrea Pratama banner"/>
 
 <br/>
 
@@ -27,7 +27,7 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 ---
 
-## ✦ 01 / WHO I AM
+## ✦ 01 / ABOUT ME
 
 <table>
 <tr>
@@ -286,7 +286,7 @@ Areas I continue to explore:
 
 ---
 
-## ✦ 07 / LET'S CONNECT
+## ✦ 07 / CONNECT WITH ME
 
 <div align="center">
 
@@ -301,6 +301,6 @@ Areas I continue to explore:
 
 <img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-footer.svg" width="100%" alt="NEXREFF — Learn, build, iterate"/>
 
-**NEXREFF** · Learn continuously. Build thoughtfully.
+**REFFKI ANDREA PRATAMA** · Learn continuously. Build thoughtfully.
 
 </div>
