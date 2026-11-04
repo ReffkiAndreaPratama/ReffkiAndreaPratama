@@ -23,6 +23,7 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 <img src="https://komarev.com/ghpvc/?username=ReffkiAndreaPratama&style=for-the-badge&color=4338CA&label=PROFILE+VIEWS" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/ReffkiAndreaPratama?style=for-the-badge&color=1D4ED8&labelColor=0B1224&label=FOLLOWERS" alt="GitHub followers"/>
+<img src="https://img.shields.io/github/actions/workflow/status/ReffkiAndreaPratama/ReffkiAndreaPratama/refresh-profile.yml?style=for-the-badge&label=PROFILE%20AUTO-UPDATE" alt="Profile auto-update workflow"/>
 
 </div>
 
