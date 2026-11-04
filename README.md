@@ -30,10 +30,10 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 <a href="#01--the-person-behind-the-code">ABOUT</a> &nbsp;·&nbsp;
 <a href="#02--featured-work">PROJECTS</a> &nbsp;·&nbsp;
-<a href="#03--technology-toolkit">TECH STACK</a> &nbsp;·&nbsp;
-<a href="#04--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
-<a href="#05--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
-<a href="#07--lets-connect">CONTACT</a>
+<a href="#05--technology-toolkit">TECH STACK</a> &nbsp;·&nbsp;
+<a href="#07--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
+<a href="#08--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
+<a href="#10--lets-connect">CONTACT</a>
 
 </div>
 
@@ -244,7 +244,186 @@ The following are **system design documents**, not application screenshots. They
 
 > Real interface screenshots are not included yet because the available repository assets are project illustrations and technical diagrams. I prefer to add verified application captures rather than label design artwork as a live product screenshot.
 
-## ✦ 03 / TECHNOLOGY TOOLKIT
+## ✦ 03 / PROJECT CASE STUDIES
+
+A closer look at the engineering decisions behind selected work. These summaries describe the project scope and implementation documented in each repository.
+
+<details>
+<summary><strong>🌊 Coastal Tourism WebGIS — Mapping local destinations</strong></summary>
+
+**Problem context**
+
+Tourism information is more useful when visitors can discover destinations and understand where they are located, rather than relying only on static lists.
+
+**Solution**
+
+A Laravel-based information system that combines destination management, descriptive content, an interactive Leaflet map, and visitor reviews.
+
+**Engineering focus**
+
+- Relational data for destinations, categories, users, and reviews.
+- Spatial coordinates rendered as map markers and GeoJSON.
+- Role-aware administration for destination content.
+- Image processing for original, thumbnail, and WebP assets.
+
+**Technology:** Laravel 12 · PHP · Blade · Tailwind CSS · Alpine.js · Leaflet · MySQL/SQLite
+
+**Repository:** [WebGIS Pariwisata Bengkulu](https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu)
+
+</details>
+
+<details>
+<summary><strong>📦 SimAset — Digitizing office asset operations</strong></summary>
+
+**Problem context**
+
+Manual asset records make it harder to maintain consistent inventory data, identify individual assets, and trace operational changes.
+
+**Solution**
+
+A web-based asset management system developed for RBTV Bengkulu as a practical-work project.
+
+**Engineering focus**
+
+- Asset, item, and room master data with relational integrity.
+- QR identification and browser-based scanning.
+- Maintenance lifecycle and activity audit trail.
+- Filtered reporting, PDF generation, and Excel/CSV import-export.
+- Admin and staff access boundaries.
+
+**Technology:** Laravel 12 · PHP · MySQL · Bootstrap 5 · Blade · Chart.js
+
+**Repository:** [Project KP SimAset](https://github.com/ReffkiAndreaPratama/Project-kp-simaset)
+
+</details>
+
+<details>
+<summary><strong>🌾 RiceVision AI — Classical machine learning for image classification</strong></summary>
+
+**Problem context**
+
+Visual rice-variety classification is a useful computer-vision exercise in transforming raw images into measurable features and evaluating alternative classifiers.
+
+**Solution**
+
+A Streamlit application that extracts color, texture (GLCM), and shape features, then compares SVM and Random Forest models.
+
+**Engineering focus**
+
+- Image preprocessing and feature engineering.
+- Reproducible training and model persistence.
+- Single-image and batch prediction workflows.
+- Evaluation of model performance; synthetic data is restricted to technical demo/testing.
+
+**Technology:** Python · OpenCV · scikit-image · scikit-learn · Streamlit
+
+**Repository:** [RiceVision AI](https://github.com/ReffkiAndreaPratama/Sesi-4---RICE-CLASSIFICATION-AI)
+
+</details>
+
+<details>
+<summary><strong>🔐 CodeVault — Building a developer knowledge utility</strong></summary>
+
+**Problem context**
+
+Reusable code fragments are easily scattered across files, chats, and notes. A searchable library with version history makes them easier to preserve and reuse.
+
+**Solution**
+
+A personal code-snippet manager with a CodeMirror editor, organization tools, version history, and optional public sharing.
+
+**Engineering focus**
+
+- Authentication and policy-based ownership.
+- Search, tags, collections, favorites, and archiving.
+- Version snapshots, restore, and diff.
+- JSON/ZIP import-export and automated tests.
+- Keyboard shortcuts and command palette.
+
+**Technology:** PHP 8.4 · Laravel 11 · Alpine.js · Tailwind CSS 4 · CodeMirror 6
+
+**Repository:** [CodeVault](https://github.com/ReffkiAndreaPratama/codevault)
+
+</details>
+
+<details>
+<summary><strong>🎙️ Speech-to-Text Bahasa Bengkulu — Low-resource ASR exploration</strong></summary>
+
+**Research context**
+
+Regional-language speech technology faces a data challenge: suitable transcribed audio is essential before reliable recognition can be evaluated.
+
+**Approach**
+
+A research pipeline exploring audio preprocessing, Log-Mel features, CNN–BiLSTM–CTC modelling, and WER/CER evaluation.
+
+**Engineering focus**
+
+- Dataset format and validation workflow.
+- Audio normalization and resampling.
+- Sequence modelling without frame-level alignment.
+- Evaluation using word and character error rates.
+
+**Status:** Pipeline and tooling are in development. Recognition quality is not claimed until a suitable dataset is collected and a model is trained and evaluated.
+
+**Repository:** [Speech-to-Text Bahasa Bengkulu](https://github.com/ReffkiAndreaPratama/speachtotext)
+
+</details>
+
+---
+
+## ✦ 04 / PROJECT VISUAL EVIDENCE
+
+A small visual window into the work. Destination photos below are source assets used by the WebGIS project; the SimAset images are actual system-design diagrams. They are not presented as application screenshots.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**WebGIS · Pantai Panjang**
+
+<a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/blob/main/public/images/PantaiPanjang.jpg">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/PantaiPanjang.jpg" width="100%" alt="Pantai Panjang destination image used by the WebGIS project"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**WebGIS · Benteng Marlborough**
+
+<a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/blob/main/public/images/Marlborough.jpg">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/Marlborough.jpg" width="100%" alt="Benteng Marlborough destination image used by the WebGIS project"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SimAset · Use Case Diagram**
+
+<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/12_UseCase.png">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/12_UseCase.png" width="100%" alt="SimAset use case diagram"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+**SimAset · Entity Relationship Diagram**
+
+<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/11_ERD.png">
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/11_ERD.png" width="100%" alt="SimAset entity relationship diagram"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+> Real application UI captures can be added when available. I prefer verified screenshots from running projects over fabricated interface mockups.
+
+---
+
+## ✦ 05 / TECHNOLOGY TOOLKIT
 
 <div align="center">
 
@@ -274,7 +453,20 @@ The following are **system design documents**, not application screenshots. They
 
 <sub>Technologies shown reflect a mix of hands-on project use, coursework, and ongoing exploration — not a ranking of proficiency.</sub>
 
-## ✦ 04 / HOW I APPROACH ENGINEERING
+### ENGINEERING TOOLBOX
+
+| Domain | Applied in projects / exploration |
+|:--|:--|
+| **Web application development** | Laravel, PHP, Blade, JavaScript, Tailwind CSS, Alpine.js |
+| **Backend & data** | REST-oriented application workflows, MySQL, SQLite, relational modelling |
+| **Computer vision & ML** | OpenCV, GLCM, scikit-image, SVM, Random Forest |
+| **Geospatial technology** | Leaflet, GeoJSON, QGIS |
+| **Systems & infrastructure** | Linux, Nginx, Cloudflare Tunnel, Git, Bash |
+| **Developer tooling** | GitHub, Composer, Vite, CodeMirror, automated testing |
+
+
+
+## ✦ 06 / HOW I APPROACH ENGINEERING
 
 <div align="center">
 
@@ -292,7 +484,7 @@ I approach projects as an iterative engineering process: understand the real pro
 | **Validation** | Functional checks, edge cases, and evaluation metrics |
 | **Documentation** | Setup instructions, diagrams, and reproducible workflows |
 
-## ✦ 05 / MY DEVELOPER JOURNEY
+## ✦ 07 / MY DEVELOPER JOURNEY
 
 <div align="center">
 
@@ -335,7 +527,17 @@ I approach projects as an iterative engineering process: understand the real pro
 </tr>
 </table>
 
-## ✦ 06 / GITHUB ACTIVITY
+## ✦ 08 / CURRENT EXPLORATION
+
+Areas I am continuing to investigate through coursework, experiments, and independent projects:
+
+- **Computer vision and medical imaging:** image preprocessing, feature representation, model evaluation, and reproducible experiments.
+- **Speech technology:** low-resource ASR, audio datasets, and sequence modelling.
+- **Software analysis:** reverse engineering fundamentals, API behaviour, and binary inspection in controlled learning environments.
+- **Infrastructure:** Linux services, self-hosting, deployment, and application reliability.
+- **Geospatial applications:** spatial data processing and useful local mapping experiences.
+
+## ✦ 09 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -358,7 +560,7 @@ I approach projects as an iterative engineering process: understand the real pro
 
 <sub>Statistics and graphs are generated by third-party services. They may occasionally be unavailable, and language distribution is not a measure of skill level.</sub>
 
-## ✦ 07 / BEYOND THE SCREEN
+## ✦ 11 / BEYOND THE SCREEN
 
 <div align="center">
 
@@ -368,7 +570,17 @@ I approach projects as an iterative engineering process: understand the real pro
 
 ---
 
-## ✦ 08 / LET'S CONNECT
+## ✦ 10 / RECENTLY UPDATED REPOSITORIES
+
+This section is refreshed automatically by GitHub Actions once per day. It highlights public repositories with recent activity.
+
+<!-- RECENT_REPOSITORIES_START -->
+| Repository | Description | Main language | Last updated (UTC) |
+|:--|:--|:--:|:--:|
+| Loading repository activity… | The scheduled workflow will populate this table. | — | — |
+<!-- RECENT_REPOSITORIES_END -->
+
+## ✦ 12 / LET'S CONNECT
 
 <div align="center">
 
