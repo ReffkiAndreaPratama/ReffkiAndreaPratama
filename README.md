@@ -1,8 +1,8 @@
-<!-- Reffki Andrea Pratama | GitHub Profile -->
+<!-- REFFKI ANDREA PRATAMA | GitHub Profile Portfolio -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-animated-banner.svg" width="100%" alt="Animated Reffki Andrea Pratama banner"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/nexreff-animated-banner.svg" width="100%" alt="Animated Reffki Andrea Pratama profile banner"/>
 
 <br/>
 
@@ -12,9 +12,10 @@
 
 Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=850&color=7DD3FC&center=true&vCenter=true&width=720&height=38&lines=Designing+and+building+web+applications;Exploring+computer+vision+and+machine+learning;Working+with+GIS+and+spatial+data;Learning+Linux+and+software+internals;Always+learning.+Always+building." alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=850&color=7DD3FC&center=true&vCenter=true&width=760&height=38&lines=Turning+ideas+into+useful+software;Building+web+applications+and+backend+systems;Exploring+computer+vision+and+machine+learning;Working+with+GIS+and+spatial+data;Learning+how+systems+work+under+the+hood." alt="Animated developer introduction"/>
 
-<a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/></a>
+<a href="https://github.com/ReffkiAndreaPratama"><img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/nexreffstudio/"><img src="https://img.shields.io/badge/INSTAGRAM-C026D3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.youtube.com/@Nexreff_Studio"><img src="https://img.shields.io/badge/YOUTUBE-DC2626?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 
@@ -27,7 +28,7 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 ---
 
-## ✦ 01 / ABOUT ME
+## ✦ 01 / THE PERSON BEHIND THE CODE
 
 <table>
 <tr>
@@ -35,35 +36,41 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 
 I'm an Informatics student who enjoys turning ideas into working software and understanding the systems behind it.
 
-I explore application development, computer vision, geospatial technology, and system infrastructure through academic work and personal projects. My approach is practical: understand the problem, build a solution, test it, and improve it.
+My interests span **software engineering, computer vision, geospatial technology, and system infrastructure**. I learn by building: explore a problem, design a practical solution, implement it, test it, and keep improving.
 
-**What I enjoy building**
-- Web applications and backend services.
-- Tools that solve practical, everyday problems.
-- Image-processing and machine-learning experiments.
-- Interactive maps and spatial-data applications.
-- Linux-based services and self-hosted environments.
+I enjoy projects that combine thoughtful engineering with real-world use cases — from mapping local tourism destinations to managing office assets and experimenting with image-based machine learning.
+
+**My working mindset**
+- Build for a clear purpose, not just for a tech stack.
+- Keep learning by experimenting and documenting.
+- Prefer maintainable solutions over unnecessary complexity.
+- Stay curious about how software works beneath the interface.
 
 </td>
 <td width="38%" valign="top">
 
-### PROFILE CARD
+### QUICK PROFILE
 
 | | |
 |:--|:--|
-| 🎓 **Study** | Informatics |
-| 🏛️ **Campus** | Universitas Bengkulu |
-| 📍 **Based in** | Bengkulu, Indonesia |
-| 💻 **Focus** | Software Development |
-| 🔬 **Explore** | CV · GIS · Linux |
+| 🎓 **Education** | Informatics |
+| 🏛️ **University** | Universitas Bengkulu |
+| 📍 **Location** | Bengkulu, Indonesia |
+| 💻 **Primary focus** | Software Development |
+| 🧪 **Research interests** | CV · ML · GIS |
+| 🖥️ **Also exploring** | Linux · Systems |
+
+<br/>
+
+<a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-1E40AF?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/></a>
 
 </td>
 </tr>
 </table>
 
-## ✦ 02 / SELECTED PROJECTS
+## ✦ 02 / FEATURED WORK
 
-Projects below are selected from my academic and personal work. Each description highlights the problem area, key functionality, and technologies used.
+A selection of academic and personal projects. The illustrations below are custom project visuals to make the portfolio easier to scan; they are **not screenshots of running applications**.
 
 <table>
 <tr>
@@ -71,39 +78,37 @@ Projects below are selected from my academic and personal work. Each description
 
 ### 🌊 Coastal Tourism WebGIS
 
-<img src="https://img.shields.io/badge/GEOSPATIAL-WEB_APPLICATION-0E7490?style=flat-square" alt="Geospatial web application"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-webgis.svg" width="100%" alt="Concept visual for Coastal Tourism WebGIS"/>
 
-A Laravel-based tourism information system for exploring destinations around Bengkulu through an interactive map.
+**A geospatial tourism information system for destinations around Bengkulu.**
 
-**Key features**
 - Destination catalogue and detail pages.
-- Interactive Leaflet map with category markers.
+- Interactive Leaflet map and category markers.
 - User reviews and star ratings.
 - Admin dashboard for destination management.
 
 **Stack:** Laravel 12 · PHP · Leaflet · MySQL · Tailwind CSS
 
-<a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu"><strong>↗ VIEW SOURCE CODE</strong></a>
+<a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu"><strong>↗ SOURCE CODE</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 SimAset — Office Asset Management
 
-<img src="https://img.shields.io/badge/INFORMATION_SYSTEM-ASSET_MANAGEMENT-1D4ED8?style=flat-square" alt="Asset management system"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-simaset.svg" width="100%" alt="Concept visual for SimAset asset management"/>
 
-A web-based asset management system developed for the office environment of RBTV Bengkulu as a practical-work project.
+**A web-based office asset management system developed for RBTV Bengkulu as a practical-work project.**
 
-**Key features**
 - Asset and room master data.
 - QR-code generation and browser scanning.
 - Maintenance tracking and audit logs.
-- Excel/CSV import and export.
-- PDF reports and role-based access.
+- Excel/CSV import-export and PDF reports.
+- Role-based access for system users.
 
 **Stack:** Laravel 12 · PHP · MySQL · JavaScript
 
-<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset"><strong>↗ VIEW SOURCE CODE</strong></a>
+<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset"><strong>↗ SOURCE CODE</strong></a>
 
 </td>
 </tr>
@@ -112,40 +117,38 @@ A web-based asset management system developed for the office environment of RBTV
 
 ### 🌾 RiceVision AI
 
-<img src="https://img.shields.io/badge/COMPUTER_VISION-IMAGE_CLASSIFICATION-6D28D9?style=flat-square" alt="Computer vision"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-ricevision.svg" width="100%" alt="Concept visual for RiceVision AI"/>
 
-An image-based rice variety classification application that compares traditional machine-learning models using visual features.
+**An image-based rice variety classification project comparing classical machine-learning approaches.**
 
-**Key features**
 - Image preprocessing and feature extraction.
 - Color, texture (GLCM), and shape descriptors.
 - SVM and Random Forest model comparison.
 - Single-image and batch prediction.
-- Streamlit dashboard and evaluation tools.
+- Streamlit interface and evaluation tools.
 
 **Stack:** Python · OpenCV · scikit-image · scikit-learn · Streamlit
 
-<a href="https://github.com/ReffkiAndreaPratama/Sesi-4---RICE-CLASSIFICATION-AI"><strong>↗ VIEW SOURCE CODE</strong></a>
+<a href="https://github.com/ReffkiAndreaPratama/Sesi-4---RICE-CLASSIFICATION-AI"><strong>↗ SOURCE CODE</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 CodeVault
 
-<img src="https://img.shields.io/badge/DEVELOPER_TOOL-SNIPPET_MANAGER-475569?style=flat-square" alt="Developer tool"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-codevault.svg" width="100%" alt="Concept visual for CodeVault snippet manager"/>
 
-A personal code-snippet manager designed to make reusable code easier to organize, search, version, and share.
+**A code-snippet manager for organizing, searching, versioning, and reusing code.**
 
-**Key features**
-- Code editor with syntax highlighting.
-- Snippet tags, collections, and global search.
-- Version history with restore and diff.
+- Editor with syntax highlighting.
+- Tags, collections, and global search.
+- Version history, restore, and diff.
 - Import/export and optional public sharing.
 - Dark mode and keyboard-driven actions.
 
 **Stack:** Laravel 11 · PHP 8.4 · Alpine.js · Tailwind CSS · CodeMirror 6
 
-<a href="https://github.com/ReffkiAndreaPratama/codevault"><strong>↗ VIEW SOURCE CODE</strong></a>
+<a href="https://github.com/ReffkiAndreaPratama/codevault"><strong>↗ SOURCE CODE</strong></a>
 
 </td>
 </tr>
@@ -154,34 +157,35 @@ A personal code-snippet manager designed to make reusable code easier to organiz
 
 ### 🎙️ Speech-to-Text Bahasa Bengkulu
 
-<img src="https://img.shields.io/badge/RESEARCH_PROTOTYPE-SPEECH_AI-0369A1?style=flat-square" alt="Speech AI prototype"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/project-speech.svg" width="100%" alt="Concept visual for Bahasa Bengkulu speech recognition research"/>
 
-A prototype research pipeline for speech recognition in the Bengkulu regional language, motivated by low-resource language technology.
+**A research prototype exploring speech recognition for a low-resource regional language.**
 
-**Project focus**
 - Audio preprocessing and dataset preparation.
 - CNN–BiLSTM–CTC model pipeline.
 - Training and evaluation using WER and CER.
-- Exploring local-language speech technology.
+- Exploration of local-language speech technology.
 
-**Status:** Pipeline prepared; meaningful transcription depends on collecting a suitable dataset and training the model.
+**Status:** Research pipeline and tooling are in development; reliable transcription depends on suitable dataset collection and model training.
 
-<a href="https://github.com/ReffkiAndreaPratama/speachtotext"><strong>↗ VIEW SOURCE CODE</strong></a>
+**Stack:** Python · Deep Learning · Audio Processing
+
+<a href="https://github.com/ReffkiAndreaPratama/speachtotext"><strong>↗ SOURCE CODE</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧭 More Experiments & Repositories
 
-<img src="https://img.shields.io/badge/WORK_IN_PROGRESS-ONGOING_LEARNING-7C3AED?style=flat-square" alt="Ongoing learning"/>
+**The workshop is always open.**
 
 I also use GitHub to document smaller experiments, coursework, utilities, and ideas as they evolve.
 
-Areas I continue to explore:
+Current exploration areas:
 - Backend APIs and database design.
 - Reverse engineering and software analysis.
 - Linux administration and self-hosting.
-- GIS workflows and geospatial data.
+- GIS workflows and spatial data.
 - Automation and developer tooling.
 
 <a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><strong>↗ BROWSE ALL REPOSITORIES</strong></a>
@@ -190,25 +194,25 @@ Areas I continue to explore:
 </tr>
 </table>
 
-## ✦ 03 / TECHNOLOGIES I WORK WITH
+## ✦ 03 / TECHNOLOGY TOOLKIT
 
 <div align="center">
 
-**01 — WEB & APPLICATION DEVELOPMENT**
+**WEB & APPLICATION DEVELOPMENT**
 
-<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,react,vite,html,css,tailwind&theme=dark&perline=10" alt="Web development stack"/>
-
-<br/><br/>
-
-**02 — DATA & COMPUTER VISION**
-
-<img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite&theme=dark&perline=8" alt="Data and computer vision stack"/>
+<img src="https://skillicons.dev/icons?i=php,laravel,js,nodejs,express,react,vite,html,css,tailwind&theme=dark&perline=10" alt="Web development technologies"/>
 
 <br/><br/>
 
-**03 — SYSTEMS & DEVELOPER TOOLS**
+**DATA, MACHINE LEARNING & COMPUTER VISION**
 
-<img src="https://skillicons.dev/icons?i=linux,bash,nginx,git,github,qgis&theme=dark&perline=8" alt="Systems and developer tools"/>
+<img src="https://skillicons.dev/icons?i=python,opencv,mysql,sqlite&theme=dark&perline=8" alt="Data and computer vision technologies"/>
+
+<br/><br/>
+
+**SYSTEMS, GIS & DEVELOPER TOOLS**
+
+<img src="https://skillicons.dev/icons?i=linux,bash,nginx,git,github,qgis&theme=dark&perline=8" alt="Systems and GIS technologies"/>
 
 <br/><br/>
 
@@ -218,9 +222,15 @@ Areas I continue to explore:
 
 </div>
 
-<sub>These technologies reflect a mix of hands-on project use, coursework, and ongoing exploration—not a ranking of proficiency.</sub>
+<sub>Technologies shown reflect a mix of hands-on project use, coursework, and ongoing exploration — not a ranking of proficiency.</sub>
 
-## ✦ 04 / WHAT I'M EXPLORING
+## ✦ 04 / MY DEVELOPER JOURNEY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/developer-journey.svg" width="100%" alt="Visual timeline of my developer journey"/>
+
+</div>
 
 <table>
 <tr>
@@ -266,17 +276,21 @@ Areas I continue to explore:
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=ReffkiAndreaPratama&hide_border=true&background=0B1224&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+<img width="96%" src="https://streak-stats.demolab.com?user=ReffkiAndreaPratama&hide_border=true&background=0B1224&ring=38BDF8&fire=A78BFA&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0b1224&color=cbd5e1&line=38bdf8&point=c084fc&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub profile trophies"/>
 
 </div>
 
-<sub>Stats are generated by third-party services and may occasionally be unavailable. Language distribution is not a measure of skill level.</sub>
+<sub>Statistics and graphs are generated by third-party services. They may occasionally be unavailable, and language distribution is not a measure of skill level.</sub>
 
-## ✦ 06 / OUTSIDE THE EDITOR
+## ✦ 06 / BEYOND THE SCREEN
 
 <div align="center">
 
@@ -286,11 +300,11 @@ Areas I continue to explore:
 
 ---
 
-## ✦ 07 / CONNECT WITH ME
+## ✦ 07 / LET'S CONNECT
 
 <div align="center">
 
-**Interested in a project, collaboration, or a good technical discussion?**
+**Have an idea, want to collaborate, or just want to talk tech? Feel free to reach out.**
 
 <a href="https://github.com/ReffkiAndreaPratama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://www.instagram.com/nexreffstudio/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
