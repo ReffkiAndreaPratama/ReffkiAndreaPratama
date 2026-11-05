@@ -1,0 +1,32 @@
+name: Portfolio issue
+description: Report a broken link, rendering issue, or incorrect portfolio information.
+title: "[Issue]: "
+labels: ["documentation"]
+body:
+  - type: dropdown
+    id: category
+    attributes:
+      label: Issue category
+      options:
+        - Broken link or image
+        - README rendering
+        - Incorrect project information
+        - Accessibility or readability
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What did you notice?
+      description: Include the affected file or section and the expected behaviour.
+      placeholder: Describe the issue...
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or reproduction steps
+      description: Add a URL, screenshot, or steps when useful.
+    validations:
+      required: false
