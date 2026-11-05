@@ -30,11 +30,12 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 <div align="center">
 
 <a href="#01--the-person-behind-the-code">ABOUT</a> &nbsp;·&nbsp;
-<a href="#02--featured-work">PROJECTS</a> &nbsp;·&nbsp;
-<a href="#05--technology-toolkit">TECH STACK</a> &nbsp;·&nbsp;
-<a href="#07--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
-<a href="#09--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
-<a href="#11--recently-updated-repositories">LATEST</a> &nbsp;·&nbsp;
+<a href="#02--developer-dashboard">DASHBOARD</a> &nbsp;·&nbsp;
+<a href="#03--featured-work">PROJECTS</a> &nbsp;·&nbsp;
+<a href="#06--technology-toolkit">TECH STACK</a> &nbsp;·&nbsp;
+<a href="#08--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
+<a href="#10--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
+<a href="#12--recently-updated-repositories">LATEST</a> &nbsp;·&nbsp;
 <a href="#12--lets-connect">CONTACT</a>
 
 </div>
@@ -81,7 +82,24 @@ I enjoy projects that combine thoughtful engineering with real-world use cases �
 </tr>
 </table>
 
-## ✦ 02 / FEATURED WORK
+## ✦ 02 / DEVELOPER DASHBOARD
+
+A compact snapshot of public GitHub activity and the technologies represented across my repositories. These third-party cards load dynamically and may occasionally be unavailable.
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ReffkiAndreaPratama&theme=github_dark" alt="GitHub profile contribution summary"/>
+
+<br/><br/>
+
+<a href="https://github.com/ReffkiAndreaPratama?tab=repositories"><img src="https://img.shields.io/badge/PUBLIC_REPOSITORIES-EXPLORE-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories"/></a>
+<a href="https://github.com/ReffkiAndreaPratama?tab=stars"><img src="https://img.shields.io/badge/OPEN_SOURCE-INTERESTS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore starred repositories"/></a>
+
+</div>
+
+**Portfolio documentation:** [Open the detailed project portfolio](docs/PORTFOLIO.md) · [Browse project source code](https://github.com/ReffkiAndreaPratama?tab=repositories)
+
+## ✦ 03 / FEATURED WORK
 
 A selection of academic and personal projects. The illustrations below are custom project visuals to make the portfolio easier to scan; they are **not screenshots of running applications**.
 
@@ -246,7 +264,7 @@ The following are **system design documents**, not application screenshots. They
 
 > Real interface screenshots are not included yet because the available repository assets are project illustrations and technical diagrams. I prefer to add verified application captures rather than label design artwork as a live product screenshot.
 
-## ✦ 03 / PROJECT CASE STUDIES
+## ✦ 04 / PROJECT CASE STUDIES
 
 A closer look at the engineering decisions behind selected work. These summaries describe the project scope and implementation documented in each repository.
 
@@ -374,7 +392,7 @@ A research pipeline exploring audio preprocessing, Log-Mel features, CNN–BiLST
 
 ---
 
-## ✦ 04 / PROJECT VISUAL EVIDENCE
+## ✦ 05 / PROJECT VISUAL EVIDENCE
 
 A small visual window into the work. Destination photos below are source assets used by the WebGIS project; the SimAset images are actual system-design diagrams. They are not presented as application screenshots.
 
@@ -425,7 +443,7 @@ A small visual window into the work. Destination photos below are source assets 
 
 ---
 
-## ✦ 05 / TECHNOLOGY TOOLKIT
+## ✦ 06 / TECHNOLOGY TOOLKIT
 
 <div align="center">
 
@@ -455,6 +473,14 @@ A small visual window into the work. Destination photos below are source assets 
 
 <sub>Technologies shown reflect a mix of hands-on project use, coursework, and ongoing exploration — not a ranking of proficiency.</sub>
 
+### TECHNOLOGY RADAR
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/technology-radar.svg" width="100%" alt="Technology radar showing applied tools, current exploration, and engineering foundations"/>
+
+</div>
+
 ### ENGINEERING TOOLBOX
 
 | Domain | Applied in projects / exploration |
@@ -468,7 +494,7 @@ A small visual window into the work. Destination photos below are source assets 
 
 
 
-## ✦ 06 / HOW I APPROACH ENGINEERING
+## ✦ 07 / HOW I APPROACH ENGINEERING
 
 <div align="center">
 
@@ -486,7 +512,7 @@ I approach projects as an iterative engineering process: understand the real pro
 | **Validation** | Functional checks, edge cases, and evaluation metrics |
 | **Documentation** | Setup instructions, diagrams, and reproducible workflows |
 
-## ✦ 07 / MY DEVELOPER JOURNEY
+## ✦ 08 / MY DEVELOPER JOURNEY
 
 <div align="center">
 
@@ -529,7 +555,7 @@ I approach projects as an iterative engineering process: understand the real pro
 </tr>
 </table>
 
-## ✦ 08 / CURRENT EXPLORATION
+## ✦ 09 / CURRENT EXPLORATION
 
 Areas I am continuing to investigate through coursework, experiments, and independent projects:
 
@@ -539,7 +565,7 @@ Areas I am continuing to investigate through coursework, experiments, and indepe
 - **Infrastructure:** Linux services, self-hosting, deployment, and application reliability.
 - **Geospatial applications:** spatial data processing and useful local mapping experiences.
 
-## ✦ 09 / GITHUB ACTIVITY
+## ✦ 10 / GITHUB ACTIVITY
 
 <div align="center">
 
@@ -562,7 +588,7 @@ Areas I am continuing to investigate through coursework, experiments, and indepe
 
 <sub>Statistics and graphs are generated by third-party services. They may occasionally be unavailable, and language distribution is not a measure of skill level.</sub>
 
-## ✦ 10 / BEYOND THE SCREEN
+## ✦ 11 / BEYOND THE SCREEN
 
 <div align="center">
 
@@ -572,7 +598,7 @@ Areas I am continuing to investigate through coursework, experiments, and indepe
 
 ---
 
-## ✦ 11 / RECENTLY UPDATED REPOSITORIES
+## ✦ 12 / RECENTLY UPDATED REPOSITORIES
 
 This section is refreshed automatically by GitHub Actions once per day. It highlights public repositories with recent activity.
 
@@ -586,7 +612,7 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 | [Websiste-Peta-Interaktif-Pariwisata-Bengkulu](https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu) | No description provided. | Blade | 2026-05-19 |
 <!-- RECENT_REPOSITORIES_END -->
 
-## ✦ 12 / LET'S CONNECT
+## ✦ 13 / LET'S CONNECT
 
 <div align="center">
 
