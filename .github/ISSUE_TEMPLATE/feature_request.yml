@@ -1,0 +1,27 @@
+name: Portfolio improvement
+description: Suggest a documentation, design, or accessibility improvement.
+title: "[Enhancement]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you improve?
+      description: Explain the proposed change.
+      placeholder: Describe your idea...
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Why would it help?
+      description: Explain the expected benefit to visitors or maintainers.
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: References or examples
+      description: Optional links or visual references.
+    validations:
+      required: false
