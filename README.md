@@ -36,7 +36,8 @@ Universitas Bengkulu — Faculty of Engineering · Bengkulu, Indonesia
 <a href="#08--my-developer-journey">JOURNEY</a> &nbsp;·&nbsp;
 <a href="#10--github-activity">ACTIVITY</a> &nbsp;·&nbsp;
 <a href="#12--recently-updated-repositories">LATEST</a> &nbsp;·&nbsp;
-<a href="#12--lets-connect">CONTACT</a>
+<a href="#13--documentation-hub">DOCS</a> &nbsp;·&nbsp;
+<a href="#14--lets-connect">CONTACT</a>
 
 </div>
 
@@ -612,7 +613,23 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 | [Websiste-Peta-Interaktif-Pariwisata-Bengkulu](https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu) | No description provided. | Blade | 2026-05-19 |
 <!-- RECENT_REPOSITORIES_END -->
 
-## ✦ 13 / LET'S CONNECT
+## ✦ 13 / DOCUMENTATION HUB
+
+The profile repository is also the index for project context, technical interests, and future learning priorities.
+
+| Document | What you'll find |
+|:--|:--|
+| [Professional profile](docs/PROFILE.md) | Background, focus areas, working principles, and selected work |
+| [Project catalogue](docs/PROJECTS.md) | Scope, technical focus, and source links for featured projects |
+| [Technology stack](docs/TECH_STACK.md) | Tools used in projects and areas currently being explored |
+| [Developer roadmap](docs/ROADMAP.md) | Active priorities, research exploration, and future improvements |
+| [Full project portfolio](docs/PORTFOLIO.md) | Expanded case-study summaries and project evidence |
+| [Changelog](CHANGELOG.md) | History of changes to this profile repository |
+| [Contribution guide](CONTRIBUTING.md) | How to report issues or suggest improvements |
+
+**Collaboration:** Use the repository's issue templates for corrections and improvement suggestions. Pull requests are welcome for focused documentation fixes.
+
+## ✦ 14 / LET'S CONNECT
 
 <div align="center">
 
