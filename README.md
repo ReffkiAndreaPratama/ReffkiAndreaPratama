@@ -606,11 +606,11 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 <!-- RECENT_REPOSITORIES_START -->
 | Repository | Description | Main language | Last updated (UTC) |
 |:--|:--|:--:|:--:|
-| [speachtotext](https://github.com/ReffkiAndreaPratama/speachtotext) | No description provided. | Python | 2026-10-23 |
-| [Sesi-4---RICE-CLASSIFICATION-AI](https://github.com/ReffkiAndreaPratama/Sesi-4---RICE-CLASSIFICATION-AI) | Klasifikasi Jenis Beras Menggunakan SVM dan Random Forest Berdasarkan Citra Digital implementasi materi sesi 4 matakuliah deeplearning | Python | 2026-10-20 |
-| [codevault](https://github.com/ReffkiAndreaPratama/codevault) | No description provided. | PHP | 2026-10-05 |
-| [Project-kp-simaset](https://github.com/ReffkiAndreaPratama/Project-kp-simaset) | No description provided. | Blade | 2026-06-05 |
-| [Websiste-Peta-Interaktif-Pariwisata-Bengkulu](https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu) | No description provided. | Blade | 2026-05-19 |
+| [supplygraph-](https://github.com/ReffkiAndreaPratama/supplygraph-) | No description provided. | Python | 2026-11-04 |
+| [awesome-reverse-engineering](https://github.com/ReffkiAndreaPratama/awesome-reverse-engineering) | No description provided. | JavaScript | 2026-11-02 |
+| [TraceForge](https://github.com/ReffkiAndreaPratama/TraceForge) | Opensource Project | Python | 2026-11-02 |
+| [local-knowledge-engine](https://github.com/ReffkiAndreaPratama/local-knowledge-engine) | No description provided. | Python | 2026-11-02 |
+| [back-up-citra-emulator-windows](https://github.com/ReffkiAndreaPratama/back-up-citra-emulator-windows) | No description provided. | Python | 2026-11-02 |
 <!-- RECENT_REPOSITORIES_END -->
 
 ## ✦ 13 / DOCUMENTATION HUB
