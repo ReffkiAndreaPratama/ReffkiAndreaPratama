@@ -606,11 +606,11 @@ This section is refreshed automatically by GitHub Actions once per day. It highl
 <!-- RECENT_REPOSITORIES_START -->
 | Repository | Description | Main language | Last updated (UTC) |
 |:--|:--|:--:|:--:|
+| [flood-detection-esp32-wokwi](https://github.com/ReffkiAndreaPratama/flood-detection-esp32-wokwi) | No description provided. | C++ | 2026-11-12 |
 | [industrialguard-esp32-wokwi](https://github.com/ReffkiAndreaPratama/industrialguard-esp32-wokwi) | No description provided. | C++ | 2026-11-11 |
 | [awesome-reverse-engineering](https://github.com/ReffkiAndreaPratama/awesome-reverse-engineering) | No description provided. | JavaScript | 2026-11-09 |
 | [Archon](https://github.com/ReffkiAndreaPratama/Archon) | No description provided. | Rust | 2026-11-09 |
 | [nexdownload](https://github.com/ReffkiAndreaPratama/nexdownload) | MIT-licensed segmented HTTP/HTTPS download manager with a native Rust engine, authenticated local API, Tauri desktop UI, and browser extension. | Rust | 2026-11-09 |
-| [supplygraph-](https://github.com/ReffkiAndreaPratama/supplygraph-) | No description provided. | Python | 2026-11-04 |
 <!-- RECENT_REPOSITORIES_END -->
 
 ## ✦ 13 / DOCUMENTATION HUB
