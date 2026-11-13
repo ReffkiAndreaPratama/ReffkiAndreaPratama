@@ -167,11 +167,11 @@
 <!-- RECENT_REPOSITORIES_START -->
 | Repository | Language | Updated |
 |:--|:--:|:--:|
+| [cleancity-professional-esp32-wokwi](https://github.com/ReffkiAndreaPratama/cleancity-professional-esp32-wokwi) | C++ | 2026-11-13 |
 | [flood-detection-esp32-wokwi](https://github.com/ReffkiAndreaPratama/flood-detection-esp32-wokwi) | C++ | 2026-11-12 |
 | [industrialguard-esp32-wokwi](https://github.com/ReffkiAndreaPratama/industrialguard-esp32-wokwi) | C++ | 2026-11-11 |
 | [awesome-reverse-engineering](https://github.com/ReffkiAndreaPratama/awesome-reverse-engineering) | JavaScript | 2026-11-09 |
 | [Archon](https://github.com/ReffkiAndreaPratama/Archon) | Rust | 2026-11-09 |
-| [nexdownload](https://github.com/ReffkiAndreaPratama/nexdownload) | Rust | 2026-11-09 |
 <!-- RECENT_REPOSITORIES_END -->
 
 ## <a id="resources"></a>07 / EXPLORE MORE
