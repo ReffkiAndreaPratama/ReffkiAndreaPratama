@@ -5,10 +5,9 @@ This roadmap records learning directions, not guaranteed delivery dates. Priorit
 ## Active priorities
 
 - [ ] Capture and document genuine UI screenshots for completed application features.
-- [ ] Improve project READMEs with setup steps, architecture, screenshots, and known limitations.
+- [ ] Improve project READMEs with setup steps, feature descriptions, screenshots, and known limitations.
 - [ ] Add reproducible tests and clear validation instructions to selected repositories.
 - [ ] Review database design and application authorization in Laravel projects.
-- [ ] Consolidate technical diagrams and implementation notes.
 
 ## Research and technical exploration
 
