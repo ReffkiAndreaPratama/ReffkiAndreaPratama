@@ -528,9 +528,6 @@ Areas I am continuing to investigate through coursework, experiments, and indepe
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReffkiAndreaPratama&bg_color=0b1224&color=cbd5e1&line=38bdf8&point=c084fc&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
 
-<br/><br/>
-
-<img width="96%" src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
 
 <br/><br/>
 
