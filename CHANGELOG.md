@@ -2,6 +2,15 @@
 
 Notable changes to this profile repository are documented here.
 
+## 2026-11-13 — Portfolio version 6.2
+
+- Rebuilt the profile README with a visual-first, compact layout.
+- Reduced repeated project descriptions and long text sections.
+- Added a custom visual panel for four development focus areas.
+- Reworked featured projects into image-led cards with concise stack labels.
+- Simplified the recent-repository table and synchronized its GitHub Actions updater.
+- Kept the detailed project and policy documentation available behind expandable sections and links.
+
 ## 2026-11-13 — Portfolio version 6.1
 
 - Removed use-case, ERD, and engineering-process diagrams from the profile presentation.
