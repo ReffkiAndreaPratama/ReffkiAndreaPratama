@@ -236,35 +236,6 @@ Current exploration areas:
 </tr>
 </table>
 
-### PROJECT DOCUMENTATION SPOTLIGHT
-
-The following are **system design documents**, not application screenshots. They offer a closer look at the engineering and data modelling behind SimAset.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Use Case Diagram**
-
-<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/12_UseCase.png">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/12_UseCase.png" width="100%" alt="SimAset use case diagram"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-**Entity Relationship Diagram**
-
-<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/11_ERD.png">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/11_ERD.png" width="100%" alt="SimAset entity relationship diagram"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-> Real interface screenshots are not included yet because the available repository assets are project illustrations and technical diagrams. I prefer to add verified application captures rather than label design artwork as a live product screenshot.
-
 ## ✦ 04 / PROJECT CASE STUDIES
 
 A closer look at the engineering decisions behind selected work. These summaries describe the project scope and implementation documented in each repository.
@@ -395,7 +366,7 @@ A research pipeline exploring audio preprocessing, Log-Mel features, CNN–BiLST
 
 ## ✦ 05 / PROJECT VISUAL EVIDENCE
 
-A small visual window into the work. Destination photos below are source assets used by the WebGIS project; the SimAset images are actual system-design diagrams. They are not presented as application screenshots.
+A visual preview of real destination imagery used by the Coastal Tourism WebGIS project. These are source photographs, not screenshots of the running application.
 
 <table>
 <tr>
@@ -404,7 +375,7 @@ A small visual window into the work. Destination photos below are source assets 
 **WebGIS · Pantai Panjang**
 
 <a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/blob/main/public/images/PantaiPanjang.jpg">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/PantaiPanjang.jpg" width="100%" alt="Pantai Panjang destination image used by the WebGIS project"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/PantaiPanjang.jpg" width="100%" alt="Pantai Panjang destination photograph used by the WebGIS project"/>
 </a>
 
 </td>
@@ -413,34 +384,16 @@ A small visual window into the work. Destination photos below are source assets 
 **WebGIS · Benteng Marlborough**
 
 <a href="https://github.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/blob/main/public/images/Marlborough.jpg">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/Marlborough.jpg" width="100%" alt="Benteng Marlborough destination image used by the WebGIS project"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SimAset · Use Case Diagram**
-
-<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/12_UseCase.png">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/12_UseCase.png" width="100%" alt="SimAset use case diagram"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-**SimAset · Entity Relationship Diagram**
-
-<a href="https://github.com/ReffkiAndreaPratama/Project-kp-simaset/blob/main/docs/diagrams/png/11_ERD.png">
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Project-kp-simaset/main/docs/diagrams/png/11_ERD.png" width="100%" alt="SimAset entity relationship diagram"/>
+<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/Websiste-Peta-Interaktif-Pariwisata-Bengkulu/main/public/images/Marlborough.jpg" width="100%" alt="Benteng Marlborough destination photograph used by the WebGIS project"/>
 </a>
 
 </td>
 </tr>
 </table>
 
-> Real application UI captures can be added when available. I prefer verified screenshots from running projects over fabricated interface mockups.
+> Actual application screenshots can be added when captured from the running projects. No system diagrams or fabricated interface images are used in this gallery.
+
+---
 
 ---
 
@@ -497,12 +450,6 @@ A small visual window into the work. Destination photos below are source assets 
 
 ## ✦ 07 / HOW I APPROACH ENGINEERING
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/main/assets/engineering-lifecycle.svg" width="100%" alt="Engineering workflow: understand, design, build, validate"/>
-
-</div>
-
 I approach projects as an iterative engineering process: understand the real problem, design the data and system structure, implement the solution, then validate and refine it.
 
 | Engineering area | What I pay attention to |
@@ -511,7 +458,7 @@ I approach projects as an iterative engineering process: understand the real pro
 | **System design** | Data relationships, application flow, and access control |
 | **Implementation** | Readable code, reusable components, and clear separation of concerns |
 | **Validation** | Functional checks, edge cases, and evaluation metrics |
-| **Documentation** | Setup instructions, diagrams, and reproducible workflows |
+| **Documentation** | Setup instructions, clear documentation, and reproducible validation steps |
 
 ## ✦ 08 / MY DEVELOPER JOURNEY
 
