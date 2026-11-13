@@ -45,7 +45,7 @@ This document is a concise index of selected work. Project status and technical 
 ## Engineering approach
 
 1. Define the problem, intended users, and project boundaries.
-2. Model data and application workflows before implementation.
+2. Define data structures and feature requirements before implementation.
 3. Build in small, testable increments.
 4. Validate behaviour, edge cases, and model metrics where relevant.
 5. Document setup, design decisions, and known limitations.
