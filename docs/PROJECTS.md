@@ -41,4 +41,4 @@ A research-oriented pipeline exploring speech recognition for a regional languag
 
 ## Project evidence
 
-For diagrams, visual assets, and available technical documentation, see each source repository. Add screenshots only when captured from the actual running application; concept artwork must remain clearly labelled as illustration.
+For source assets and available project documentation, see each repository. Add screenshots only when captured from the actual running application; concept artwork must remain clearly labelled as illustration.
