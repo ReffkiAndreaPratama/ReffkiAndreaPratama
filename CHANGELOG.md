@@ -2,6 +2,14 @@
 
 Notable changes to this profile repository are documented here.
 
+## 2026-11-13 — Portfolio version 6.1
+
+- Removed use-case, ERD, and engineering-process diagrams from the profile presentation.
+- Kept the portfolio focused on projects, actual source visuals, and verified evidence.
+- Added project quality standards and automation documentation.
+- Added security reporting and community conduct policies.
+- Added the contribution-snake visual to the GitHub activity section.
+
 ## 2026-11-05 — Portfolio version 6.0
 
 - Added dedicated profile, project catalogue, technology stack, and learning roadmap documents.
