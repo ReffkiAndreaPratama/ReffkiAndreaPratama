@@ -36,10 +36,9 @@ jobs:
 
             const rows = items.length
               ? items.map(item => {
-                  const description = safe(item.description) || "No description provided.";
                   const language = safe(item.language) || "—";
                   const updated = new Date(item.updated_at).toISOString().slice(0, 10);
-                  return "| [" + safe(item.name) + "](" + item.html_url + ") | " + description + " | " + language + " | " + updated + " |";
+                  return "| [" + safe(item.name) + "](" + item.html_url + ") | " + language + " | " + updated + " |";
                 }).join("\n")
               : "| No public repositories found | — | — | — |";
 
@@ -53,8 +52,8 @@ jobs:
             const content = Buffer.from(file.content, "base64").toString("utf8");
             const block = [
               start,
-              "| Repository | Description | Main language | Last updated (UTC) |",
-              "|:--|:--|:--:|:--:|",
+              "| Repository | Language | Updated |",
+              "|:--|:--:|:--:|",
               rows,
               end
             ].join("\n");
