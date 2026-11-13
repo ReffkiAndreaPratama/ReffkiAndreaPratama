@@ -530,6 +530,10 @@ Areas I am continuing to investigate through coursework, experiments, and indepe
 
 <br/><br/>
 
+<img width="96%" src="https://raw.githubusercontent.com/ReffkiAndreaPratama/ReffkiAndreaPratama/output/github-snake-dark.svg" alt="GitHub contribution snake animation"/>
+
+<br/><br/>
+
 <img width="96%" src="https://github-profile-trophy.vercel.app/?username=ReffkiAndreaPratama&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub profile trophies"/>
 
 </div>
@@ -573,6 +577,10 @@ The profile repository is also the index for project context, technical interest
 | [Full project portfolio](docs/PORTFOLIO.md) | Expanded case-study summaries and project evidence |
 | [Changelog](CHANGELOG.md) | History of changes to this profile repository |
 | [Contribution guide](CONTRIBUTING.md) | How to report issues or suggest improvements |
+| [Quality standards](docs/QUALITY_STANDARDS.md) | Evidence, screenshots, technical claims, and repository readiness |
+| [Automation guide](docs/AUTOMATION.md) | How the recent-repository updater and contribution animation work |
+| [Security policy](SECURITY.md) | How to report a security concern responsibly |
+| [Code of Conduct](CODE_OF_CONDUCT.md) | Expectations for respectful collaboration |
 
 **Collaboration:** Use the repository's issue templates for corrections and improvement suggestions. Pull requests are welcome for focused documentation fixes.
 
