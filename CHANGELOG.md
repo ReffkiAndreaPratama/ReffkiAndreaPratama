@@ -2,6 +2,12 @@
 
 Notable changes to this profile repository are documented here.
 
+## 2026-11-13 — Portfolio version 6.3
+
+- Replaced Markdown emphasis and headings inside HTML containers with semantic HTML to prevent literal asterisks and hash marks from appearing.
+- Improved spacing, headings, and project-card hierarchy for more consistent GitHub rendering.
+- Preserved the recent-repository automation markers and the existing documentation hub.
+
 ## 2026-11-13 — Portfolio version 6.2
 
 - Rebuilt the profile README with a visual-first, compact layout.
