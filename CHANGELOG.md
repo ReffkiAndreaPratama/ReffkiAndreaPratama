@@ -8,7 +8,7 @@ Notable changes to this profile repository are documented here.
 - Kept the portfolio focused on projects, actual source visuals, and verified evidence.
 - Added project quality standards and automation documentation.
 - Added security reporting and community conduct policies.
-- Added the contribution-snake visual to the GitHub activity section.
+- Documented the contribution-snake automation; its generated image will be embedded after the output branch is available.
 
 ## 2026-11-05 — Portfolio version 6.0
 
